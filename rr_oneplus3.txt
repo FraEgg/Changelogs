@@ -1,0 +1,191 @@
+[B]Changelog builds after 11/02/2017:[/B]
+[LIST]
+[*]Allow T9 with ru_UA locale (Dialer)
+[*]Change dialer sources to github.com/ROM-FIXES 
+[/LIST]
+
+[B]Changelog builds after 10/23/2017 (sultanxda):[/B]
+[LIST]
+[*]enable burnIn protection support
+[*]Update blobs from OxygenOS 4.5.1
+[*]kernel: qcacld-2.0: Update to CAF LA.UM.5.5.r1-06100-8x96.0
+[*]device: Clear the GNSS Sv used list data when position fix fails
+[/LIST]
+
+[B]Changelog builds after 10/15/2017:[/B]
+[LIST]
+[*]Remove wakelocks from LockClock widget (reduce battery drain)
+[/LIST]
+
+[B]Changelog builds after 10/10/2017:[/B]
+[LIST]
+[*]Add DCI-P3 color Display for Sultan-Kernel
+[*]Add enable VoLTE support
+[*]Enable night display support
+[*]add quick setting titles
+[*]enable Wifi bonding 2,6GHz
+[*]Thanks to [MENTION=8069803]Ashoksoni[/MENTION]
+[/LIST]
+
+[B]Changelog builds after 10/08/2017:[/B]
+[LIST]
+[*]Fix: Show dash charging on Lockscreen
+[*]Add sound control driver from [MENTION=4684315]flar2[/MENTION] (elementalx) into [MENTION=4800121]Sultanxda[/MENTION] kernel (You can use the [URL="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor"]Kernel Auditor[/URL] app or the [URL="https://play.google.com/store/apps/details?id=flar2.exkernelmanager"]EX Kernel Manager[/URL] app to control the speaker, headphone and mic gain. )
+[/LIST]
+
+[B]Changelog builds after 10/03/2017:[/B]
+[LIST]
+[*]Downloads moved to [url]http://luis-builds.de/downloads/lineageos/rr/[/url]
+[/LIST]
+
+[B]Changelog builds after 09/30/2017:[/B]
+[LIST]
+[*]Update GoogleCamera to MGCB_7.0H_C2API_Mid_v.3.8b_AllinOne_Full_Manual_XDA_Developers.apk
+[/LIST]
+
+[B]Changelog builds after 09/29/2017:[/B]
+[LIST]
+[*]Support signature spoofing (microG/GmsCore)
+[/LIST]
+
+[B]Changelog builds after 09/25/2017:[/B]
+[LIST]
+[*]set sultan-kernel CONFIG_IP_NF_TARGET_TTL=y
+[/LIST]
+
+[B]Changelog builds after 09/24/2017:[/B]
+[LIST]
+[*]Update blobs from OB24 / OB15 (sultan builds)
+[/LIST]
+
+[B]Changelog builds after 09/23/2017:[/B]
+[LIST]
+[*]Update blobs from OB24 / OB15 (elementalX builds)
+[/LIST]
+
+[B]Changelog builds after 09/21/2017:[/B]
+[LIST]
+[*]Revert to OnePlusCamera and Gallery 1.5 from OB14 (thanks to nvertigo)
+[/LIST]
+
+[B]Changelog builds after 09/19/2017:[/B]
+[LIST]
+[*]Update Google Camera to MGCB_7.0H_C2API_Min_v.2.1_AllinOneN6P_60fps (2017-09-14). Use this [URL="https://forum.xda-developers.com/showpost.php?p=73745008&postcount=327"]Config[/URL]
+[/LIST]
+Changes only Sultan-Builds (Kernel):
+[LIST]
+[*]trace: ipc_logging: Avoid buffer overflow in ipc_log_string() 
+[*]diag: Synchronize msg mask read and write on a peripheral 
+[*]thermal: tsens: Disable Tsens interrupts during driver initialization 
+[*]Merge "trace: ipc_logging: Avoid buffer overflow in ipc_log_string()" 
+[*]Promotion of kernel.lnx.3.18.c5-170815. 
+[*]msm: sensor: Fix crash when ioctl VIDIOC_MSM_SENSOR_INIT_CFG 
+[*]ASoC: msm: qdsp6v2: Check out-of-bound access in put functions 
+[*]msm: camera: Avoid deadlock for vb2 operations using separate lock 
+[*]msm: sensor: Add mutex lock during ois power down operations 
+[*]qseecom: Fix accessing userspace memory in kernel space 
+[*]msm: mdss: Add check for ioctl calls 
+[*]msm: mdss: Check htotal for calculating programmable fetch 
+[*]Merge "msm: camera: Avoid deadlock for vb2 operations using separate … 
+[*]Merge "ASoC: msm: qdsp6v2: Check out-of-bound access in put functions" 
+[*]Merge "qseecom: Fix accessing userspace memory in kernel space" 
+[*]Merge "msm: sensor: Add mutex lock during ois power down operations" 
+[*]msm: kgsl: Fix the syncpoint_fence trace 
+[*]msm: kgsl: Protect the event->handle with spinlock 
+[*]msm:ipa: Fix to incorrect structure access 
+[*]drm/msm: Fix potential buffer overflow issue 
+[*]Promotion of kernel.lnx.3.18.c5-170817. 
+[*]Merge "msm: mdss: Add check for ioctl calls" 
+[*]Merge "msm: mdss: Check htotal for calculating programmable fetch" 
+[*]qbt1000: Validate FP app name before qseecom_start_app 
+[*]Merge "drm/msm: Fix potential buffer overflow issue" 
+[*]Merge "msm:ipa: Fix to incorrect structure access" 
+[*]Merge "msm: kgsl: Protect the event->handle with spinlock" 
+[*]Merge "qbt1000: Validate FP app name before qseecom_start_app" 
+[*]Promotion of kernel.lnx.3.18.c5-170818. 
+[*]qseecom: use strnlen in qseecom_start_app 
+[*]Promotion of kernel.lnx.3.18.c5-170820. 
+[*]Promotion of kernel.lnx.3.18.c5-170821. 
+[*]BACKPORT: f2fs: sanity check log_blocks_per_seg 
+[*]timerfd: Protect the might cancel mechanism proper 
+[*]f2fs: sanity check segment count 
+[*]FROMLIST: f2fs: sanity check checkpoint segno and blkoff 
+[*]Merge "timerfd: Protect the might cancel mechanism proper" 
+[*]Merge "f2fs: sanity check segment count" 
+[*]Merge "FROMLIST: f2fs: sanity check checkpoint segno and blkoff" 
+[*]tracing : fix race condition reading saved tgids 
+[*]Merge "thermal: tsens: Disable Tsens interrupts during driver initial… 
+[*]Promotion of kernel.lnx.3.18.c5-170823. 
+[*]msm: ipa3: Fix IPA aggregation force close call 
+[*]Merge "msm: ipa3: Fix IPA aggregation force close call" 
+[*]Promotion of kernel.lnx.3.18.c5-170823.1. 
+[*]Merge "diag: Synchronize msg mask read and write on a peripheral" 
+[*]Merge "tracing : fix race condition reading saved tgids" 
+[*]Promotion of kernel.lnx.3.18.c5-170824. 
+[*]ASoC: msm: qdspv2: initialize struct member before being used 
+[*]Promotion of kernel.lnx.3.18.c5-170825. 
+[*]Promotion of kernel.lnx.3.18.c5-170828. 
+[*]Merge ec3b3f7 on remote branch 
+[*]Merge branch 'LA.UM.5.5.r1-05800-8x96.0' into cm-14.1-sultan 
+[/LIST]
+
+[B]Changelog builds ElementalX after 09/14/2017:[/B]
+[LIST]
+[*]ARM: dts: 15801: Nuke redundant panel cmds
+[*]ARM: dts: 15801: Update panel sRGB & DCI-P3 cmd from Open Beta kernel...
+[*]FROMLIST: f2fs: make background threads of f2fs being aware of freezing...
+[*]FROMLIST: f2fs: use IPU for cold files...
+[*]FROMLIST: f2fs: introduce discard_granularity sysfs entry…
+[*]Merge remote-tracking branch 'lineageos/cm-14.1' into ElementalX-3.00… 
+[/LIST]
+
+[B]Changelog builds after 09/12/2017:[/B]
+[LIST]
+[*]op3: Update blobs from OxygenOS Open Beta 14 and 23
+[*]Sultan: Add potential fix for MediaScanner crashes on raw files
+[*]Sultan: Snap: Fix face detection crash when switching cameras
+[*]Sultan: Revert "ARM: dts: 15801/15811: Update panel sRGB commands from Open Beta kernel
+[/LIST]
+
+[B]Changelog builds after 09/03/2017:[/B]
+[LIST]
+[*]op3: Update blobs from OxygenOS Open Beta 13 and 22
+[*]Update blobs from OB22 / OB13  …		
+[*]Address wcnss_service denial  …		
+[*]Add specific camera parameter library  …			
+[*]Don't advertise manual ISO modes for the OP3T's front camera  …			
+[*]Increase the number of voice call and media volume steps …			
+[*]Increase handset volume  …			
+[*]Disable WiFi calling  …			
+[*]Update non-pro Adreno firmware checksums for Open Beta 22
+[*]Update panel sRGB commands from Open Beta kernel
+[*]Snap: Fix selfie mirror for OP3(T) camera stack
+[/LIST]
+
+[B]Changelog builds after 09/01/2017:[/B]
+[LIST]
+[*]Use Gallery2 app from cm-14.1
+[*]Update all sourcetrees from sultanxda and flar2
+[*]Update Google Camera Port (30/60fps)
+[*]Update OnePlus Gallery and switch to OnePlus Camera from OnePlus 5
+[/LIST]
+
+[B]Changelog builds after 08/07/2017:[/B]
+[LIST]
+[*]Use Gallery2 app from cm-13.0
+[*]Revert "Revert "Add Gallery2 decoding speed-up patch"
+[*]Revert "Remove Gallery2 Nougat compilation fix"
+[/LIST]
+
+[B]Changelog builds after 08/06/2017:[/B]
+[LIST]
+[*]fix video rec issues with elemental kernel version
+[*]add Build in Google Camera 4.4.012.156195200 (From Android O Dev Preview 3)
+[/LIST]
+
+[B]Changelog builds after 08/03/2017:[/B]
+[LIST]
+[*]builds update sources with ElementalX-Kernel from and device sources from sultanxda
+[*]fixed elementalx builds with camera issues (can't connect camera) 
+[*]add build in OxygenOS Camera and Gallery V8 after builds 08/03/17 (OxygenOS Stock Camera and Gallery Port from siankatabg)
+[/LIST]
