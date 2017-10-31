@@ -1,0 +1,142 @@
+[B]Changelog builds after 10/15/2017:[/B]
+[LIST]
+[*]Remove wakelocks from LockClock widget (reduce battery drain)
+[/LIST]
+
+Commits for Builds from Oct 03,2017
+[LIST]
+[*]Downloads moved to [url]http://luis-builds.de/downloads/lineageos/rr/[/url]
+[/LIST]
+
+Commits for Builds from Sep 30,2017
+[LIST]
+[*]Support signature spoofing (microG/GmsCore)
+[/LIST]
+
+Commits for Builds from Sep 29, 2017
+[LIST]
+[*]Enable burn in protection  …
+[*]v4l2: Implement exynos_v4l2_prepare  …
+[*]videocodec: Support recent MFC hardware  …
+[/LIST]
+
+Commits for Builds from Aug 21, 2017
+[LIST]
+[*]Increase volume for the build-in mics from 17/32 to 32/48 in device settings (mixer_paths.xml)
+[/LIST]
+
+Commits for Builds from Aug 18, 2017
+[LIST]
+[*]Merge pull request #11 from exynos5420/cm-14.1  …
+[*]fs/exec: fix use after free in execve  …
+[/LIST]
+
+Commits for Builds from Jul 31, 2017
+[LIST]
+[*]@rINanDO [MENTION=6227169]mosimchah[/MENTION] proc: Set androidboot.verifiedbootstate=green  …			5f6ed2c
+[*]@rINanDO [MENTION=6227169]mosimchah[/MENTION]	cypress: Add touchkey brightness support  …			e9e00ae
+[*]@rINanDO [MENTION=6227169]mosimchah[/MENTION]	mxts: add variable touchkey brightness support  …			2974dd3
+[*]@rINanDO [MENTION=6227169]mosimchah[/MENTION]	tc300k: add variable touchkey brightness support  …			46a7278
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	tc300k: fix keypad disabling node  …			926ead2
+[*]@ssehovic [MENTION=6227169]mosimchah[/MENTION]	chagalllte: disable CONFIG_KEYBOARD_CYPRESS_TOUCH  …			f59290f
+[*]@haggertk [MENTION=6227169]mosimchah[/MENTION]	ha3g: drivers: sensorhub: Kill all the kmsg spam  …			67adcdf
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	sensorhubs: update from N900XXUEBPB1 kernel drop  …			52fec5e
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	input: unify the sysfs to enable/disable touchkey booster  …			e1799db
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	input: unify the sysfs to enable/disable touchscreen booster  …			d9644b7
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	input: unify the sysfs to enable/disable the wacom booster  …			b0b6add
+[*]@tincho5588 [MENTION=6227169]mosimchah[/MENTION]	input: move the wacom_booster_enabled variable definition  …			1214b88
+[*]@LaCruz75 [MENTION=6227169]mosimchah[/MENTION]	input: add missing conditionals in mtxs header regulator definition  …			0f5751d
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-0510: BACKPORT: fiq_debugger: restrict access to critical co…  …			92e8c93
+[*]@stephensmalley [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-2618: selinux: fix off-by-one in setprocattr  …			ed7058f
+[*]@kees [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-1000365: fs/exec.c: account for argv/envp pointers  …			13c41bf
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-2671: ping: implement proper locking  …			02f6a6f
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-8890: dccp/tcp: do not inherit mc_list from parent  …			047828e
+[*]@tytso [MENTION=6227169]mosimchah[/MENTION]	CVE-2016-10208: ext4: fix fencepost in s_first_meta_bg validation  …			5884365
+[*]@syphyr [MENTION=6227169]mosimchah[/MENTION]	CVE-2016-10208: ext4: fix condition of validate s_first_meta_bg …			94ab808
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2013-4312: unix: properly account for FDs passed over unix sockets  …			52999e4
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2016-2550: unix: correctly track in-flight fds in sending process…  …			c1d8f45
+[*]@kraigatgoog [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-9074: ipv6: Prevent overrun when parsing v6 header options  …			ee5e1aa
+[*]@davem330 [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-9074: ipv6: Check ip6_find_1stfragopt() return value properly.  …			88058a8
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-9075: BACKPORT: sctp: do not inherit ipv6_{mc|ac|fl}_list fr…  …			1e184ea
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-9076, CVE-2017-9077: BACKPORT: ipv6/dccp: do not inherit ipv…  …			94d58bf
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2017-9242: ipv6: fix out of bound writes in __ip6_append_data()  …			f51fc34
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2012-6703: ALSA: compress_core: integer overflow in snd_compr_all…  …			8d26a48
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2012-6703: ALSA: compress - move the buffer check  …			6448291
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2015-8944: kernel: Restrict permissions of /proc/iomem.  …			438a9fc
+[* [MENTION=6227169]mosimchah[/MENTION]	CVE-2016-3857: arm: oabi compat: add missing access checks  …			ee1c854
+[* [MENTION=6227169]mosimchah[/MENTION]	ALSA: compress: fix compilation error  …			4e66be
+[*]@marceloleitner [MENTION=6227169]mosimchah[/MENTION]	CVE-2016-9555: sctp: validate chunk len before actually using it …			d109d67
+[* [MENTION=6227169]mosimchah[/MENTION]	ALSA: compress: fix an integer overflow check  …			97d4483
+[* [MENTION=6227169]mosimchah[/MENTION]	net: wireless: bcmdhd: fix buffer overrun in private command path  …			060c254
+[*]@ShevT [MENTION=6227169]mosimchah[/MENTION]	defconfig: Disable SND_SUPPORT_OLD_API  …			112923e
+[* [MENTION=6227169]mosimchah[/MENTION]	ALSA: compress: add support for gapless playback  …			5cec5ae
+[*]@agheorghiu [MENTION=6227169]mosimchah[/MENTION]	ASoC: core: Use PTR_RET function  …			0ac8269
+[* [MENTION=6227169]mosimchah[/MENTION]	snd_pcm_link(): fix a leak...  …			8564c8e
+[*]@larsclausen [MENTION=6227169]mosimchah[/MENTION]	ASoC: dapm: Add snd_soc_dapm_switch to the power up/down sequence table  …			2bc6d09
+[*]@broonie [MENTION=6227169]mosimchah[/MENTION]	ASoC: dapm: Provide early event callbacks for power up and down …			f216023
+[*]@larsclausen [MENTION=6227169]mosimchah[/MENTION]	ASoC: Fix early event callback list iteration  …			d5341c2
+[*]@larsclausen [MENTION=6227169]mosimchah[/MENTION]	ALSA: Constify the snd_pcm_substream struct ops field  …			f898c7e
+[*]@larsclausen [MENTION=6227169]mosimchah[/MENTION]	ASoC: jack: Remove unnecessary call to snd_soc_dapm_new_widgets()  …			31a9716
+[*]@tiwai [MENTION=6227169]mosimchah[/MENTION]	ALSA: Fix the default suffix string with high card number  …			3d3f744
+[*]@tiwai [MENTION=6227169]mosimchah[/MENTION]	ALSA: vmaster: Add snd_ctl_sync_vmaster() helper function  …			603e331
+[*]@tiwai [MENTION=6227169]mosimchah[/MENTION]	ALSA: vmaster: Fix the regression of missing vmaster hook call …			a603387
+[* [MENTION=6227169]mosimchah[/MENTION]	ALSA: pcm: Use snd_printd_ratelimit()  …			49dac5f
+[* [MENTION=6227169]mosimchah[/MENTION]	samsung: don't bother with setting VM_IO  …			c8dd6c9
+[* [MENTION=6227169]mosimchah[/MENTION]	ALSA: pcm: Add snd_printd_ratelimit()  …			f224879
+[*]@ShevT [MENTION=6227169]mosimchah[/MENTION]	ALSA: timer: fix division by zero after SNDRV_TIMER_IOCTL_CONTINUE  …			470f4df
+[* [MENTION=4222965]deadman96385[/MENTION] [MENTION=6227169]mosimchah[/MENTION]	Move n1awifi to enforcing  …
+[/LIST]
+
+Commits for Builds from Jul 24, 2017
+[LIST]
+[*]@tdm   	kernel: Only expose su when daemon is running  …			e079fd0
+[*]CVE-2017-0510: BACKPORT: fiq_debugger: restrict access to critical co…  …			d38f2e2
+[*]@kees   	CVE-2017-1000365: fs/exec.c: account for argv/envp pointers  …			117ca8e
+[*]@stephensmalley   	CVE-2017-2618: selinux: fix off-by-one in setprocattr  …			95b7561
+[*]CVE-2017-2671: ping: implement proper locking  …			3f8ddd4
+[*]CVE-2017-8890: dccp/tcp: do not inherit mc_list from parent  …			d877493
+[*]@syphyr   	CVE-2016-10208: ext4: fix condition of validate s_first_meta_bg …			836a6f6
+[*]@tytso   	CVE-2016-10208: ext4: fix fencepost in s_first_meta_bg validation  …			b23d1f5
+[*]CVE-2013-4312: unix: properly account for FDs passed over unix sockets  …			e216094
+[*]CVE-2016-2550: unix: correctly track in-flight fds in sending process…  …			480c12c
+[*]@kraigatgoog   	CVE-2017-9074: ipv6: Prevent overrun when parsing v6 header options  …			8c6e427
+[*]@davem330   	CVE-2017-9074: ipv6: Check ip6_find_1stfragopt() return value properly.  …			1a5bc0b
+[*]CVE-2017-9075: BACKPORT: sctp: do not inherit ipv6_{mc|ac|fl}_list fr…  …			8386116
+[*]CVE-2017-9076, CVE-2017-9077: BACKPORT: ipv6/dccp: do not inherit ipv…  …			03866e8
+[*]CVE-2017-9242: ipv6: fix out of bound writes in __ip6_append_data()  …			20b0d1a
+[*]@tdm   	LVT-2017-0002: kernel: Fix potential refcount leak in su check …			b333274
+[*]CVE-2012-6703: ALSA: compress_core: integer overflow in snd_compr_all…  …			d7a284f
+[*]CVE-2012-6703: ALSA: compress - move the buffer check  …			1478883
+[*]CVE-2015-8944: kernel: Restrict permissions of /proc/iomem.  …			d2046f0
+[*]CVE-2016-3857: arm: oabi compat: add missing access checks  …			ba86ee1
+[*]@marceloleitner   	CVE-2016-9555: sctp: validate chunk len before actually using it …			3c9f3d9
+[*]ALSA: compress: fix compilation error  …			2c573a0
+[*]ALSA: compress: fix an integer overflow check  …			4eb7cbd
+[*]net: wireless: bcmdhd: fix buffer overrun in private command path  …			0f8c28e
+[*]@ShevT   	defconfig: Disable SND_SUPPORT_OLD_API  …			6717e79
+[*]ALSA: compress: add support for gapless playback  …			b2f24c5
+[*]@agheorghiu   	ASoC: core: Use PTR_RET function  …			155136d
+[*]snd_pcm_link(): fix a leak...  …			414a3a9
+[*]@larsclausen   	ASoC: dapm: Add snd_soc_dapm_switch to the power up/down sequence table  …			cec3e7b
+[*]@broonie   	ASoC: dapm: Provide early event callbacks for power up and down …			60a3935
+[*]@larsclausen   	ASoC: Fix early event callback list iteration  …			34ad10e
+[*]@larsclausen   	ASoC: jack: Remove unnecessary call to snd_soc_dapm_new_widgets()  …			6b6afa0
+[*]@larsclausen   	ALSA: Constify the snd_pcm_substream struct ops field  …			cc0c9b1
+[*]@tiwai   	ALSA: Fix the default suffix string with high card number  …			240ac73
+[*]@tiwai   	ALSA: vmaster: Add snd_ctl_sync_vmaster() helper function  …			bcce2ff
+[*]@tiwai   	ALSA: vmaster: Fix the regression of missing vmaster hook call …			ff72593
+[*]ALSA: pcm: Use snd_printd_ratelimit()  …			0414b8a
+[*]samsung: don't bother with setting VM_IO  …			7a22323
+[*]ALSA: pcm: Add snd_printd_ratelimit()  …			4544f40
+[*]@ShevT   	ALSA: timer: fix division by zero after SNDRV_TIMER_IOCTL_CONTINUE  …			5facb1d
+[*]@tincho5588	sensorhubs: update from N900XXUEBPB1 kernel drop  …			79e138e
+[* [MENTION=4222965]deadman96385[/MENTION]   	Merge "sensorhubs: update from N900XXUEBPB1 kernel drop" into cm-14.1			26afe09
+[*]@tincho5588	input: unify the sysfs to enable/disable touchkey booster  …			cc243f0
+[*]@tincho5588	input: unify the sysfs to enable/disable touchscreen booster  …			7cef880
+[*]@tincho5588	input: unify the sysfs to enable/disable the wacom booster  …			28acd77
+[*]@tincho5588   	Merge changes from topic 'new-audio-hal' into cm-14.1  …			4060574
+[*]@tincho5588   	Merge changes from topic 'input_boosters' into cm-14.1  …			fa87caf
+[*]@LaCruz75 [MENTION=4222965]deadman96385[/MENTION]	input: add missing conditionals in mtxs header regulator definition  …
+[*]All devices: Remove nxp noise supression files  …
+[*]Merge pull request #2 from TheMuppets/cm-14.1  …
+[/LIST]
