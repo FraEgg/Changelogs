@@ -1,6 +1,11 @@
 
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/04/2017:</h2>
+<li>Change default tiles</li>
+<li>Notification slider: add extra options</li>
+<li>[PATCH] oppo-common: Don't make notification slider haptics</li>
+
 <h2>Changelog builds after 11/02/2017:</h2>
 <ul>
 <li>Allow T9 with ru_UA locale (Dialer)</li>
