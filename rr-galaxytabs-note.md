@@ -1,5 +1,11 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 11/02/2017 (T705/T805):</h2>
+<ul>
+<li>Allow T9 with ru_UA locale (Dialer)
+<li>Change dialer sources to github.com/ROM-FIXES 
+</ul>
+
 <h2>Commits for Builds from 10/15/2017:</h2>
 <ul>
 <li>Remove wakelocks from LockClock widget (reduce battery drain)</li>
