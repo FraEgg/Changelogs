@@ -1,6 +1,6 @@
-<html><head><title>Changelog Oneplus 3/3T</title></head>
-<body>
+
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
+<p></p>
 <h2>Changelog builds after 11/02/2017:</h2>
 <ul>
 <li>Allow T9 with ru_UA locale (Dialer)</li>
@@ -192,5 +192,3 @@ Changes only Sultan-Builds (Kernel):
 <li>fixed elementalx builds with camera issues (can't connect camera) </li>
 <li>add build in OxygenOS Camera and Gallery V8 after builds 08/03/17 (OxygenOS Stock Camera and Gallery Port from siankatabg)</li>
 </ul>
-</body>
-</html>
