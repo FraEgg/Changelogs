@@ -3,6 +3,7 @@
 <h2>Changelog builds after 11/05/2017:</h2>
 <ul>
 <li>mdss_fb: add backlight dimmer option (@flar2)</li>
+<li>Change default Wallpaper to Luis ;-) (Thanks to patmo.de)</li>
 </ul>
 
 <h2>Changelog builds after 11/04/2017:</h2>
