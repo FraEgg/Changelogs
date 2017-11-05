@@ -1,6 +1,10 @@
-
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/05/2017:</h2>
+<ul>
+<li>mdss_fb: add backlight dimmer option (@flar2)</li>
+</ul>
+
 <h2>Changelog builds after 11/04/2017:</h2>
 <li>Change default tiles</li>
 <li>Notification slider: add extra options</li>
