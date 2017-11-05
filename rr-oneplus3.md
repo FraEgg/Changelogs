@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 11/05/2017:</h2>
 <ul>
+<li>tri_state_key:allow more key codes for extra modes - hardware keys fix
 <li>mdss_fb: add backlight dimmer option (@flar2)</li>
 <li>set hal1 for oos camera in system.prop</li>
 </ul>
