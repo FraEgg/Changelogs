@@ -5,6 +5,7 @@
 <li>tri_state_key:allow more key codes for extra modes - hardware keys fix
 <li>mdss_fb: add backlight dimmer option (@flar2)</li>
 <li>set hal1 for oos camera in system.prop</li>
+<li>Change default Wallpaper to Luis ;-) (Thanks to patmo.de)</li>
 </ul>
 
 <h2>Changelog builds after 11/04/2017:</h2>
