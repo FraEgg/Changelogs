@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 11/11/2017: (T705/T805)</h2>
+<ul>
+<li>back: Change dialer android_packages_apps_dialer to rr sources/</li>
+</ul>
+
 <h2>Changelog builds after 11/05/2017:</h2>
 <ul>
 <li>Change default Wallpaper to Luis ;-) (Thanks to patmo.de)</li>
