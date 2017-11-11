@@ -3,6 +3,7 @@
 <h2>Changelog builds after 11/11/2017:</h2>
 <ul>
 <li>back: Change dialer android_packages_apps_dialer to rr sources</li>
+<li>snap: Camera: fix incorrect photo orientation for landscape selfie mirror shots</li>
 <li>msm: mdss: Restrict display commit thread to power cluster (sultan)</li>
 <li>input: synaptics: s3320: Clean up IRQ handler (sultan)</li>
 <li>input: synaptics: s3320: Clean up and optimize PM routines (sultan)</li>
