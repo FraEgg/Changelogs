@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 11/11/2017: (T705/T805)</h2>
 <ul>
-<li>back: Change dialer android_packages_apps_dialer to rr sources/</li>
+<li>back: Change dialer android_packages_apps_dialer to rr sources</li>
 </ul>
 
 <h2>Changelog builds after 11/05/2017:</h2>
