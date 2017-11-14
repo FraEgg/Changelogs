@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 11/14/2017:</h2>
 <ul>
-  <li>op3: Add WeChat fingerprint payment support</li>
+  <li>Add WeChat fingerprint payment support</li>
 </ul>
 
 <h2>Changelog builds after 11/11/2017:</h2>
