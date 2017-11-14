@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 11/14/2017:</h2>
 <ul>
+  <li>Add WeChat fingerprint payment support</li>
   <li>kernel: Extracted defconfig from stock kernel</li>
   <li>santoni: Add Virtual flag to ft5x06_720p.kl</li>
   <li>Merge pull request #4 from HridayHS/cm-14.1</li>
