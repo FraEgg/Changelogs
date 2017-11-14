@@ -1,5 +1,12 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 11/14/2017:</h2>
+<ul>
+  <li>kernel: Extracted defconfig from stock kernel</li>
+  <li>santoni: Add Virtual flag to ft5x06_720p.kl</li>
+  <li>Merge pull request #4 from HridayHS/cm-14.1</li>
+</ul>
+
 <h2>Changelog builds after 11/11/2017:</h2>
 <ul>
 <li>back: Change dialer android_packages_apps_dialer to rr sources</li>
