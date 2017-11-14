@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/14/2017:</h2>
+<ul>
+  <li>op3: Add WeChat fingerprint payment support (elementalx)</li>
+</ul>
+
 <h2>Changelog builds after 11/11/2017:</h2>
 <ul>
 <li>back: Change dialer android_packages_apps_dialer to rr sources</li>
