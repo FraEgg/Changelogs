@@ -1,5 +1,14 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/17/2017:</h2>
+<ul>
+<li>Update Google Camera<br> 
+-MGCB_7.0H_C2API_Mid_v.3.7_AllinOne_Full_Manual_60fps from iivanich@xda</li>
+<li>Update OOS Camera & Gallery<br>
+- com.oneplus.camera_2.4.17-20410150_minAPI24(arm64-v8aarmeabi-v7a)(nodpi)<br>
+- com.oneplus.gallery_2.0.25-20370139_minAPI24(arm64-v8aarmeabiarmeabi-v7ax86x86_64)(nodpi)</li>
+</ul>
+
 <h2>Changelog builds after 11/14/2017:</h2>
 <ul>
   <li>Add WeChat fingerprint payment support</li>
