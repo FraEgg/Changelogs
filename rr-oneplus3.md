@@ -2,8 +2,8 @@
 <p></p>
 <h2>Changelog builds after 11/18/2017:</h2>
 <ul>
-  <li>kernel: Sinput: synaptics: Ignore keypad presses when touchscreen is in use...</li>
-  <li>kernel: Squashed revert of buggy and clunky is_keypad_stopped feature... </li>
+  <li>kernel: Sinput: synaptics: Ignore keypad presses when touchscreen is in use...(sultan)</li>
+  <li>kernel: Squashed revert of buggy and clunky is_keypad_stopped feature... (sultan)</li>
 </ul>
 
 <h2>Changelog builds after 11/17/2017:</h2>
