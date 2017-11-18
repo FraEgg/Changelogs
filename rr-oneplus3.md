@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/18/2017:</h2>
+<ul>
+  <li>kernel: Sinput: synaptics: Ignore keypad presses when touchscreen is in use...</li>
+  <li>kernel: Squashed revert of buggy and clunky is_keypad_stopped feature... </li>
+</ul>
+
 <h2>Changelog builds after 11/17/2017:</h2>
 <ul>
 <li>Update Google Camera<br> 
