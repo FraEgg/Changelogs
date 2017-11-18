@@ -1,5 +1,17 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 11/17/2017:</h2>
+<ul>
+<li>kernel: init: Add netmgrd to proper groups</li>
+<li>kernel: Add more sepolicies  …</li>
+<li>kernel: fix bluetooth denials</li>
+<li>kernel: Add rmt_storage to proper groups</li>
+<li>kernel: fix typo  …</li>
+<li>kernel: Fix reading Bluetooth MAC address</li>
+<li>kernel: overlay: Set Default WiFi Hotspot Name  …</li>
+<li>kernel: recent app switcher fixes  …</li>
+</ul>
+
 <h2>Changelog builds after 11/14/2017:</h2>
 <ul>
   <li>Add WeChat fingerprint payment support</li>
