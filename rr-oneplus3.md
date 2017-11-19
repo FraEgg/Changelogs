@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/19/2017:</h2>
+<ul>
+<li>Revert to OnePlusCamera-V8 (siankatabg)</li>
+</ul>
+
 <h2>Changelog builds after 11/18/2017:</h2>
 <ul>
   <li>kernel: Sinput: synaptics: Ignore keypad presses when touchscreen is in use...(sultan)</li>
