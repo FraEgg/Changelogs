@@ -1,5 +1,22 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 11/19/2017:</h2>
+<ul>
+<li>qcom: Allow setting custom audio, display, and media HALs  …</li>
+<li>Add WOM Internet/MMS (CL) apn  …</li>
+<li>Add Correios Celular (BR) APN  …</li>
+<li>build: qcom_target: Add sdm660  …</li>
+<li>tasks: kernel: Kill unexisting wiki reference  …</li>
+<li>Update initial attach for Tmo US  …</li>
+<li>charger: Remove battery_fail images  …</li>
+<li>qcom_target: Commonize UM target HALs  …</li>
+<li>envsetup: Fix cmremote for AOSP projects  …</li>
+<li>cm/aosp/cafremote: Make variables local  …</li>
+<li>Added more USA sensitive phone numbers  …</li>
+<li>Updated apns for device bringup for S4 Mini - serranolteusc  …</li>
+<li>cm: build: kernel: Rework kernel module logic  …</li>
+</ul>
+
 <h2>Changelog builds after 11/18/2017:</h2>
 <ul>
 <li>Add fastcharge thermal-enginge.conf mod</li>
