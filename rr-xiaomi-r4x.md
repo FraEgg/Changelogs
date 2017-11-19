@@ -6,7 +6,7 @@
 <li>Add OneplusGallery</li>
 <li>Add Google Camera (MGCB_7.0H_C2API_Mid_v.3.7_AllinOne_Full_Manual_60fps from iivanich@xda)</li>
 <li>kernel: Revert: add more sepolicies  …</li>
-<li>kernel: Add rmt_storage to proper groups</li>
+<li>kernel: Revert: Add rmt_storage to proper groups</li>
 </ul>
   
 <h2>Changelog builds after 11/17/2017:</h2>
