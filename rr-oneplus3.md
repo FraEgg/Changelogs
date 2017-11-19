@@ -2,7 +2,6 @@
 <p></p>
 <h2>Changelog builds after 11/19/2017:</h2>
 <ul>
-<li>Revert to OnePlusCamera-V8 (siankatabg)</li>
 <li>qcom: Allow setting custom audio, display, and media HALs  …</li>
 <li>Add WOM Internet/MMS (CL) apn  …</li>
 <li>Add Correios Celular (BR) APN  …</li>
