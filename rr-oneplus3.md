@@ -1,5 +1,12 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/23/2017:</h2>
+<ul>
+<li>soc: qcom: complete clear the memory before freeing it up.  …(sultan)</li>
+<li>Revert "mdss: Validate cursor image size"  …(sultan)</li>
+<li>tcp: fix tcp_mtu_probe() vs highest_sack(sultan)</li> 
+</ul>
+
 <h2>Changelog builds after 11/19/2017:</h2>
 <ul>
 <li>qcom: Allow setting custom audio, display, and media HALs  …</li>
