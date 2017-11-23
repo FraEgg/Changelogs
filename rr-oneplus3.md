@@ -2,9 +2,10 @@
 <p></p>
 <h2>Changelog builds after 11/23/2017:</h2>
 <ul>
-<li>soc: qcom: complete clear the memory before freeing it up.  …(sultan)</li>
+<li>merge op3: Add WeChat fingerprint payment support from sultan tree (sultan)</li>
+<li>soc: qcom: complete clear the memory before freeing it up. (sultan)</li>
 <li>Revert "mdss: Validate cursor image size"  …(sultan)</li>
-<li>tcp: fix tcp_mtu_probe() vs highest_sack(sultan)</li> 
+<li>tcp: fix tcp_mtu_probe() vs highest_sack (sultan)</li> 
 </ul>
 
 <h2>Changelog builds after 11/19/2017:</h2>
