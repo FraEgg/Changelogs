@@ -2,7 +2,14 @@
 <p></p>
 <h2>Changelog builds after 11/24/2017:</h2>
 <ul>
-  <li> Update Google Camera to: Arnova's 5.1.016_v1.1: GCam5.1.016-Arnova8G2-v1.1 (2017-11-17)<br>https://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552</li>
+<li> Update Google Camera to: Arnova's 5.1.016_v1.1: GCam5.1.016-Arnova8G2-v1.1 (2017-11-17)<br>https://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552<br>
+GCam App crashing just after being opened:<br>
+Using a root file manager/explorer, delete the following files, and try again:<br>
+<br>
+Code:<br>
+/System/framework/com.google.android.camera.experimental2016.jar<br>
+/System/etc/permission/com.google.android.camera.experimental2016.xml<br>
+</li>
 </ul>
   
 <h2>Changelog builds after 11/23/2017:</h2>
