@@ -1,6 +1,6 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
-<h2>Changelog builds after 11/23/2017:</h2>
+<h2>Changelog builds after 11/24/2017:</h2>
 <ul>
   <li> Update Google Camera to: Arnova's 5.1.016_v1.1: GCam5.1.016-Arnova8G2-v1.1 (2017-11-17)</li>
 </ul>
