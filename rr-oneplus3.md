@@ -2,6 +2,11 @@
 <p></p>
 <h2>Changelog builds after 11/23/2017:</h2>
 <ul>
+  <li> Update Google Camera to: Arnova's 5.1.016_v1.1: GCam5.1.016-Arnova8G2-v1.1 (2017-11-17)</li>
+</ul>
+  
+<h2>Changelog builds after 11/23/2017:</h2>
+<ul>
 <li>merge op3: Add WeChat fingerprint payment support from sultan tree (sultan)</li>
 <li>soc: qcom: complete clear the memory before freeing it up. (sultan)</li>
 <li>Revert "mdss: Validate cursor image size"  …(sultan)</li>
