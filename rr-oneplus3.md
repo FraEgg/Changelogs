@@ -1,5 +1,96 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/25/2017:</h2>
+<ul><b>Merge only to LuisSultan-Build:</b>
+<li>msm: vidc: Increase minimum input buffer count for VP9 decode  …</li>
+<li>rtac: add size check when reading cal data kvaddr buffer  …</li>
+<li>diag: Fix possible usage of freed resource issue  …</li>
+<li>crypto: ice: Sanitize the ice device return address.  …</li>
+<li>net: rmnet_data: validate csum in SW  …</li>
+<li>Merge "msm: vidc: Increase minimum input buffer count for VP9 decode"</li>
+<li>Merge "rtac: add size check when reading cal data kvaddr buffer"</li>
+<li>Merge "diag: Fix possible usage of freed resource issue"</li>
+<li>Merge "crypto: ice: Sanitize the ice device return address."</li>
+<li>Promotion of kernel.lnx.3.18.c5-171013.  …</li>
+<li>msm: ADSPRPC: Support offloading to mdsp  …</li>
+<li>msm: ADSPRPC: Use modem heap for MDSP buffer allocations  …</li>
+<li>media: v4l2-compat-ioctl32: memset stack union in compat ioctl …</li>
+<li>Prevent potential double frees in sg driver  …</li>
+<li>ASoC: wcd9xxx: restrict debugfs permission  …</li>
+<li>power: reset: Do hard reset when user reboots from UI  …</li>
+<li>msm: ipa: add null terminator  …</li>
+<li>Merge "net: rmnet_data: validate csum in SW"</li>
+<li>Merge "Prevent potential double frees in sg driver"</li>
+<li>Merge "msm: ipa: add null terminator"</li>
+<li>Promotion of kernel.lnx.3.18.c5-171018.  …</li>
+<li>Merge "power: reset: Do hard reset when user reboots from UI"</li>
+<li>Merge "ASoC: wcd9xxx: restrict debugfs permission"</li>
+<li>Promotion of kernel.lnx.3.18.c5-171019.  …</li>
+<li>Promotion of kernel.lnx.3.18.c5-171021.  …</li>
+<li>ALSA: usb-audio: Add length check after string desc copy  …</li>
+<li>Merge "msm: ADSPRPC: Support offloading to mdsp"</li>
+<li>Merge "msm: ADSPRPC: Use modem heap for MDSP buffer allocations"</li>
+<li>ipv6/dccp: do not inherit ipv6_mc_list from parent  …</li>
+<li>diag: Add mutex protection while reading dci debug statistics  …</li>
+<li>scsi: ufs: Fix race condition in ufs qcom debugfs driver  …</li>
+<li>scsi: ufs: Fix stack overflow read in ufs debugfs driver  …</li>
+<li>msm: ipa: prevent string buffer overflows  …</li>
+<li>usb: phy: msm: Disable runtime PM for root hub upon usb disconnect …</li>
+<li>Merge "media: v4l2-compat-ioctl32: memset stack union in compat ioctl"</li>
+<li>Merge "ipv6/dccp: do not inherit ipv6_mc_list from parent"</li>
+<li>Merge "diag: Add mutex protection while reading dci debug statistics"</li>
+<li>Merge "scsi: ufs: Fix race condition in ufs qcom debugfs driver"</li>
+<li>Merge "scsi: ufs: Fix stack overflow read in ufs debugfs driver"</li>
+<li>Merge "msm: ipa: prevent string buffer overflows"</li>
+<li>Promotion of kernel.lnx.3.18.c5-171023.  …</li>
+<li>Promotion of kernel.lnx.3.18.c5-171023.1.  …</li>
+<li>mmc: core: Prevent accessing user space buffer directly  …</li>
+<li>Merge "ALSA: usb-audio: Add length check after string desc copy"</li>
+<li>Merge "mmc: core: Prevent accessing user space buffer directly"</li>
+<li>Revert "ARM: dts: msm: Add VFE efuse support for 8953"  …</li>
+<li>Promotion of kernel.lnx.3.18.c5-171024.  …</li>
+<li>Merge "Revert "ARM: dts: msm: Add VFE efuse support for 8953""</li>
+<li>Merge 9b000a5 on remote branch  …</li>
+<li>ASoC: msm8x16-wcd: Fix lineout pop issue  …</li>
+<li>Promotion of kernel.lnx.3.18.c5-171025.  …</li>
+<li>diag: dci: Validate dci client entries prior to access  …</li>
+<li>Revert "osq_lock: fix osq_lock queue corruption"  …</li>
+<li>locking/osq_lock: Fix osq_lock queue corruption  …</li>
+<li>ASoC: APR: initialize struct member before being used  …</li>
+<li>wcnss: fix the race condition issue during cal data extraction …</li>
+<li>nl80211: Define policy for packet pattern attributes  …</li>
+<li>Merge "wcnss: fix the race condition issue during cal data extraction"</li>
+<li>net: rps: send out pending IPI's on CPU hotplug  …</li>
+<li>net: rps: reset backlog state when IPI fails.  …</li>
+<li>Merge "usb: phy: msm: Disable runtime PM for root hub upon usb discon…  …</li>
+<li>Merge "net: rps: reset backlog state when IPI fails."</li>
+<li>Promotion of kernel.lnx.3.18.c5-171026.  …</li>
+<li>Merge "diag: dci: Validate dci client entries prior to access"</li>
+<li>Merge "ASoC: msm8x16-wcd: Fix lineout pop issue"</li>
+<li>Merge "ASoC: APR: initialize struct member before being used"</li>
+<li>Merge "nl80211: Define policy for packet pattern attributes"</li>
+<li>Promotion of kernel.lnx.3.18.c5-171030.  …</li>
+<li>Promotion of kernel.lnx.3.18.c5-171031.  …</li>
+<li>sched: Fix integer overflow in sched_update_nr_prod()  …</li>
+<li>msm: sensor: actuator: avoid accessing out of bound memory  …</li>
+<li>Merge "msm: sensor: actuator: avoid accessing out of bound memory"</li>
+<li>Promotion of kernel.lnx.3.18.c5-171107.  …</li>
+<li>Merge f01812f on remote branch  …</li>
+<li>Revert "misc: fpc1020: Increase fingerprintd nice value when screen i…  …</li>
+<li>oneplus3_defconfig: Disable unused errata fixes and PAN  …</li>
+<li>rcu: Restrict nocb kthreads to power cluster  …</li>
+<li>oneplus3_defconfig: Restrict kswapd to power cluster  …</li>
+<li>ARM: dts: msm8996: Remove redundant CPU bandwidth devfreq devices …</li>
+<li>arm64: Don't force compilation of memlat devfreq governors</li>
+<li>oneplus3_defconfig: Disable perf events  …</li>
+<li>input: synaptics: s3320: Fix touch_enable/disable logic  …</li>
+<li>input: synaptics: s3320: Fix i2c errors on resume  …</li>
+<li>input: synaptic: s3320: Fix long delay in tp_baseline_get()  …</li>
+<li>input: synaptics: s3320: Add missing mutex lock in PM worker  …</li>
+<li>Merge branch 'LA.UM.5.5.r1-06300-8x96.0' into cm-14.1-sultan</li>
+<li>qcacld-2.0: Update to CAF LA.UM.5.5.r1-06300-8x96.0</li>
+</ul>
+
 <h2>Changelog builds after 11/24/2017:</h2>
 <ul>
 <li> Update Google Camera to: Arnova's 5.1.016_v1.1: GCam5.1.016-Arnova8G2-v1.1 (2017-11-17)<br>https://forum.xda-developers.com/oneplus-3/how-to/modded-google-camera-hdr-60fps-video-t3658552<br>
