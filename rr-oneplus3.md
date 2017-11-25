@@ -2,7 +2,8 @@
 <p></p>
 <h2>Changelog builds after 11/25/2017:</h2>
 <ul>
-<li>Snap Camera: Add KEY_CAMERA_SAVEPATH option (internal / external storage)</li>
+  <li>Snap Camera: Add SD Card to KEY_CAMERA_SAVEPATH option (internal / SD card)</li>
+  <li>Snap Camera: Rename Storage USB OTA drive to SD card</li>
 </ul>
 <ul>
 <b>Merge only to LuisSultan-Build:</b>
