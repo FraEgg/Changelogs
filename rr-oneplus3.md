@@ -1,7 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
 <h2>Changelog builds after 11/25/2017:</h2>
-<ul><b>Merge only to LuisSultan-Build:</b>
+<ul>
+<li>Snap Camera: Add KEY_CAMERA_SAVEPATH option (internal / external storage)</li>
+</ul>
+<ul>
+<b>Merge only to LuisSultan-Build:</b>
 <li>msm: vidc: Increase minimum input buffer count for VP9 decode  …</li>
 <li>rtac: add size check when reading cal data kvaddr buffer  …</li>
 <li>diag: Fix possible usage of freed resource issue  …</li>
