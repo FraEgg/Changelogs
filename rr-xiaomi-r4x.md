@@ -1,5 +1,12 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 11/27/2017:</h2>
+<ul>
+  <li>vendor: Use WLAN driver built into kernel</li>
+  <li>santoni: drop prebuilt kernel && WLAN driver && set selinux as permis…  …</li>
+  <li>santoni: block fp events for now</li>
+</ul>
+
 <h2>Changelog builds after 11/25/2017:</h2>
 <ul>
   <li>Snap Camera: Add SD Card to KEY_CAMERA_SAVEPATH option (internal / SD card)</li>
