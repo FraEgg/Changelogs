@@ -7,7 +7,6 @@
 
 <h2>Changelog builds after 11/27/2017:</h2>
 <ul>
-  <li>Add Wireguard</li>
   <li>vendor: Use WLAN driver built into kernel</li>
   <li>santoni: drop prebuilt kernel && WLAN driver && set selinux as permis…  …</li>
   <li>santoni: block fp events for now</li>
