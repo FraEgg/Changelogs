@@ -2,7 +2,10 @@
 <p></p>
 <h2>Changelog builds after 11/28/2017:</h2>
 <ul>
-  <li>device: Fix/Add weather providers</li>
+  <li>device: Fix/Add weather providers</li>
+  <li>santoni: block fp events for now</li>
+  <li>santoni: drop prebuilt kernel && WLAN driver && set selinux as permis…</li>
+  <li>santoni: restore hciattach …</li>
 </ul>
 
 <h2>Changelog builds after 11/27/2017:</h2>
