@@ -3,6 +3,7 @@
 <h2>Changelog builds after 11/28/2017:</h2>
 <ul>
   <li>device: Fix/Add weather providers (elementalx)</li>
+  <li>common: Update KeyHandler for api change</li>
 </ul>
 
 <h2>Changelog builds after 11/27/2017:</h2>
