@@ -5,11 +5,6 @@
   <li>device: Fix/Add weather providers</li>
 </ul>
 
-<h2>Changelog builds after 11/27/2017:</h2>
-<ul>
-  <li>Add Wireguard</li>
-</ul>
-
 <h2>Changelog builds after 11/19/2017:</h2>
 <ul>
 <li>qcom: Allow setting custom audio, display, and media HALs  …</li>
