@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 11/29/2017:</h2>
+<ul>
+  <li>Revert "common: Update KeyHandler for api change"</li>
+</ul>
+
 <h2>Changelog builds after 11/28/2017:</h2>
 <ul>
 <li>device: Fix/Add weather providers (elementalx)</li>
