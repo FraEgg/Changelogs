@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 11/30/2017:</h2>
+<ul>
+  <li>Add Wireguard vpn support</li>
+</ul>
+
 <h2>Changelog builds after 11/28/2017:</h2>
 <ul>
  <li>device: Fix/Add weather providers</li>
