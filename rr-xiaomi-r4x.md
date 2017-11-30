@@ -2,7 +2,26 @@
 <p></p>
 <h2>Changelog builds after 11/30/2017:</h2>
 <ul>
- <li>Add Wireguard vpn support</li>
+ <li>add Wireguard vpn support</li>
+ <li>change kernel source from upstream-caf-kernels/msm-3.18</li>
+ <li>santoni: camera: Camera hal updates …</li>
+ <li>santoni: camera: squash update for camera HAL with compatible commits</li>
+ <li>santoni: camera: HACK to make OSS hal work with camera blobs</li>
+ <li>santoni: camera: Fixes to OSS camera hal to build in LineageOS tree  …</li>
+ <li>santoni: camera: Import oss camera HAL</li>
+ <li>Revert "Add multicolor LED with prebuilt kernel"</li>
+ <li>santoni: set selinux as Enforcing</li>
+<li>Update santoni_defconfig</li>
+<li>Added fsync on/off support....</li>
+<li>proc: Remove additional SafetyNet flags from /proc/cmdline...</li>
+<li>proc: Remove verifiedbootstate flag from /proc/cmdline...</li>
+<li>drivers: misc: implement usb fast charge mode...</li>
+<li>power:qpnp-charger: extended charge time from 30s to 100s when batter...</li>
+<li>ASoC: wcd-mbhc: correct lineout detection  ...</li>
+<li>msm: qpnp-haptic: Process haptics asynchronously</li>
+<li>qpnp-haptic: Dejank the haptics ...</li>
+<li>msm: qpnp-haptic: set up sysfs interface for common cmhw implementation...</li>
+<li>drivers : usb: Increase charge current</li>
 </ul>
 
 <h2>Changelog builds after 11/28/2017:</h2>
