@@ -1,5 +1,33 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/02/2017:</h2>
+<ul>
+<li>vendor:Revert "santoni: drop Camera HAL blobs, use OSS"</li>
+<li>santoni: Move to oss consumerir hal</li>
+<li>santoni: fix consumerir</li>
+<li>kernel: msm: qpnp-haptic: set up sysfs interface for common cmhw implementation  …</li>
+<li>msm: qpnp-haptic: Process haptics asynchronously  …</li>
+<li>power:qpnp-charger: extended charge time from 30s to 100s when batter…  …</li>
+<li>ASoC: wcd-mbhc: correct lineout detection  …</li>
+<li>proc: Remove additional SafetyNet flags from /proc/cmdline  …</li>
+<li>proc: Remove verifiedbootstate flag from /proc/cmdline  …</li>
+<li>Enable Fast Charging By Default</li>
+<li>Enable USB FastCharge</li>
+<li>drivers: misc: implement usb fast charge mode  …</li>
+<li>drivers: power: Fix 2% battery level drop</li>
+<li>drivers : usb: Increase charge current</li>
+<li>Enable Sound Control @flar2</li>
+<li>ASoC: msm8x16-wcd: add speaker gain and prevent reset</li>
+<li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital …</li>
+<li>ASoC: msm8x16-wcd: Sound control: add mic gain</li>
+<li>ASoC: msm8x16-wcd: Sound control  …</li>
+<li>Enable Westwood TCP and Make it as Default</li>
+<li>msm: mdss: KCAL: disable igc update</li>
+<li>msm: mdss: KCAL: Send a pp display commit when changes are made …</li>
+<li>mdss: mdp: kcal for mdss_mdp_v1_7  …</li>
+</ul> 
+ 
+<p></p>
 <h2>Changelog builds after 11/30/2017:</h2>
 <ul>
  <li>add Wireguard vpn support</li>
