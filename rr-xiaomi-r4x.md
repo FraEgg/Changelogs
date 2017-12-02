@@ -16,7 +16,7 @@
 <li>drivers: misc: implement usb fast charge mode  …</li>
 <li>drivers: power: Fix 2% battery level drop</li>
 <li>drivers : usb: Increase charge current</li>
-<li>Enable Sound Control with Mic Gain @flar2 for (<a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor">Kernel Auditor</a> or <a href="https://play.google.com/store/apps/details?id=flar2.exkernelmanager">EX Kernel Manager)</a></li>
+<li>Enable Sound Control with Mic Gain @flar2 for apps (<a href="https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor">Kernel Auditor</a> or <a href="https://play.google.com/store/apps/details?id=flar2.exkernelmanager">EX Kernel Manager)</a></li>
 <li>ASoC: msm8x16-wcd: add speaker gain and prevent reset</li>
 <li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital …</li>
 <li>ASoC: msm8x16-wcd: Sound control: add mic gain</li>
