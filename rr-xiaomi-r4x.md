@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 12/02/2017:</h2>
 <ul>
+<li>add MIUI Camera</li>
 <li>vendor:Revert "santoni: drop Camera HAL blobs, use OSS"</li>
 <li>santoni: Move to oss consumerir hal</li>
 <li>santoni: fix consumerir</li>
