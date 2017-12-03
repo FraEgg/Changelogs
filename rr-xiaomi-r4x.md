@@ -3,6 +3,10 @@
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
 <li>Change to MIUICamera.apk V1.5 from pavaosk@xda<br>Thread: https://forum.xda-developers.com/xiaomi-redmi-4x/themes/camera-mod-miui-camera-added-features-t3713989</li>
+<li>Update RR-Changelog to v5.8.5</li>
+<li>Update Magisk to v14.5 (optional)  …</li>
+<li>Update include method for prebuilt apks  …</li>
+<li>prebuilt: Update included apk's to latest versions</li>
 </ul>
 
 <h2>Changelog builds after 12/02/2017:</h2>
