@@ -1,5 +1,27 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/03/2017:</h2>
+<ul>
+Sultan-Build:
+<li>Revert "oneplus3_defconfig: Restrict kswapd to power cluster" …</li>
+<li>Revert "rcu: Restrict nocb kthreads to power cluster"  …</li>
+<li>Revert "msm: mdss: Restrict display commit thread to power cluster" …</li>
+<li>oneplus3_defconfig: Use -O2 optimization …</li>
+<li>treewide: Fix compile errors when -O2 is used  …</li>
+<li>workqueue: Schedule workers on CPU0 or CPU0/CPU1 by default  …</li>
+<li>kthread: Force all non-percpu kthreads onto the power cluster  …</li>
+<li>Makefile: Use -finline-functions when -O2 is used  …</li>
+<li>qcacld-2.0: Fix compile errors when -finline-functions is used  …</li>
+<li>input: synaptics: s3320: Clean up and optimize hw power on/off  </li>
+<li>input: synaptics: s3320: Add back missing case to IRQ handler  …</li>
+<li>input: synaptics: s3320: Remove delay_qt_ms()  …</li>
+<li>misc: fpc1020: Rewrite and optimize  …</li>
+<li>input: synaptics: s3320: Remove s3320_disable_gestures  …</li>
+<li>cpu: Don't allow CPUs in the power cluster to be unplugged  …</li>
+<li>arm64: mmu: Fix alloc_init_pud section mismatches  …</li>
+<li>oneplus3: extract-files: Bring back old behavior for SRC</li>
+</ul>
+
 <h2>Changelog builds after 11/29/2017:</h2>
 <ul>
   <li>Revert "common: Update KeyHandler for api change"</li>
