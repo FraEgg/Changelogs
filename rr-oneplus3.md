@@ -2,6 +2,12 @@
 <p></p>
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
+<li>Update RR-Changelog to v5.8.5</li>
+<li>Update Magisk to v14.5 (optional)  …</li>
+<li>Update include method for prebuilt apks  …</li>
+<li>prebuilt: Update included apk's to latest versions</li>
+</ul>
+<ul>
 <b>Sultan-Build:</b>
 <li>Revert "oneplus3_defconfig: Restrict kswapd to power cluster" …</li>
 <li>Revert "rcu: Restrict nocb kthreads to power cluster"  …</li>
