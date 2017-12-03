@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
-Sultan-Build:
+<b>Sultan-Build:</b>
 <li>Revert "oneplus3_defconfig: Restrict kswapd to power cluster" …</li>
 <li>Revert "rcu: Restrict nocb kthreads to power cluster"  …</li>
 <li>Revert "msm: mdss: Restrict display commit thread to power cluster" …</li>
