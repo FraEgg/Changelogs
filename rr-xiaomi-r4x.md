@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+h2>Changelog builds after 12/03/2017:</h2>
+<ul>
+<li>Change to MIUICamera.apk V1.5 from pavaosk@xda Thread: https://forum.xda-developers.com/xiaomi-redmi-4x/themes/camera-mod-miui-camera-added-features-t3713989</li>
+</ul>
+
 <h2>Changelog builds after 12/02/2017:</h2>
 <ul>
 <li>add MIUI Camera</li>
