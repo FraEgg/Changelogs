@@ -1,5 +1,13 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 12/03/2017:</h2>
+<ul>
+<li>Update RR-Changelog to v5.8.5</li>
+<li>Update Magisk to v14.5 (optional)  …</li>
+<li>Update include method for prebuilt apks  …</li>
+<li>prebuilt: Update included apk's to latest versions</li>
+</ul>
+
 <h2>Changelog builds after 11/28/2017:</h2>
 <ul>
   <li>device: Fix/Add weather providers</li>
