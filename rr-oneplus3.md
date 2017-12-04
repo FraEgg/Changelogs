@@ -3,7 +3,7 @@
 <h2>Changelog builds after 12/04/2017:</h2>
 <ul>
   <b>Sultan-Build:</b>
-  <li>Revert "workqueue: Schedule workers on CPU0 or CPU0/CPU1 by default"</li>
+  <li>Revert <a href="https://github.com/FraEgg/android_kernel_oneplus_msm8996_sultanxda/commit/e6698de91e79c951405672c98969403342282ebc">workqueue: Schedule workers on CPU0 or CPU0/CPU1 by default"</a></li>
   <li>misc: fpc1020: Ignore home button when virtual_key_enable is enabled  …</li>
   <li>input: synaptics: s3320: Clean up and optimize int_touch()  …</li>
 </ul>
