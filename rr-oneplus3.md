@@ -1,5 +1,12 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/04/2017:</h2>
+<ul>
+  <b>Sultan-Build:</b>
+  <li>misc: fpc1020: Ignore home button when virtual_key_enable is enabled  …</li>
+  <li>input: synaptics: s3320: Clean up and optimize int_touch()  …</li>
+<ul>
+
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
 <li>Update RR-Changelog to v5.8.5</li>
