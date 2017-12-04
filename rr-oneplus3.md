@@ -3,6 +3,7 @@
 <h2>Changelog builds after 12/04/2017:</h2>
 <ul>
   <b>Sultan-Build:</b>
+  <li>Revert "workqueue: Schedule workers on CPU0 or CPU0/CPU1 by default"</li>
   <li>misc: fpc1020: Ignore home button when virtual_key_enable is enabled  …</li>
   <li>input: synaptics: s3320: Clean up and optimize int_touch()  …</li>
 </ul>
