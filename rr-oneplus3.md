@@ -1,5 +1,14 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/05/2017:</h2>
+<ul>
+  <b>Sultan-Build:</b>
+<li>Revert "Revert "oneplus3_defconfig: Restrict kswapd to power cluster"" …</li>
+<li>Revert "Revert "rcu: Restrict nocb kthreads to power cluster""  …</li>
+<li>Revert "Revert "msm: mdss: Restrict display commit thread to power cl… …</li>
+<li>Revert "kthread: Force all non-percpu kthreads onto the power cluster" …</li>
+</ul>
+
 <h2>Changelog builds after 12/04/2017:</h2>
 <ul>
   <b>Sultan-Build:</b>
