@@ -4,6 +4,7 @@
 <ul>
  <li>Pie: Fix FC after reboot with french language  …</li>
  <li>Fix systemUI FC when using the Language QS tile</li>
+ <li>santoni: Enable Cpuset</li>
 </ul>
 
 <h2>Changelog builds after 12/03/2017:</h2>
