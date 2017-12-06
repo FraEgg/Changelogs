@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/06/2017:</h2>
+<ul>
+ <li>Pie: Fix FC after reboot with french language  …</li>
+ <li>Fix systemUI FC when using the Language QS tile</li>
+</ul>
+
 <h2>Changelog builds after 12/05/2017:</h2>
 <ul>
   <b>Sultan-Build:</b>
