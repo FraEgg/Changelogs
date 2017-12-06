@@ -2,7 +2,8 @@
 <p></p>
 <h2>Changelog builds after 12/06/2017:</h2>
 <ul>
-  <li>Kernel: wacom: Report KEY_WAKEUP on s-pen removal</li>
+ <li>Add Wireguard VPN ROM support</li>
+ <li>Kernel: wacom: Report KEY_WAKEUP on s-pen removal</li>
  <li>Pie: Fix FC after reboot with french language  …</li>
  <li>Fix systemUI FC when using the Language QS tile</li>
 </ul>
