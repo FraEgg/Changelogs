@@ -1,5 +1,12 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 12/06/2017:</h2>
+<ul>
+  <li>Kernel: wacom: Report KEY_WAKEUP on s-pen removal</li>
+ <li>Pie: Fix FC after reboot with french language  …</li>
+ <li>Fix systemUI FC when using the Language QS tile</li>
+</ul>
+
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
 <li>Update RR-Changelog to v5.8.5</li>
