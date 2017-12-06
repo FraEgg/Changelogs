@@ -64,7 +64,7 @@
 
 <h2>Changelog builds after 11/27/2017:</h2>
 <ul>
-  <li>Add Wireguard</li>
+  <li>Add Wireguard VPN ROM support</li>
 </ul>
 
 <h2>Changelog builds after 11/25/2017:</h2>
