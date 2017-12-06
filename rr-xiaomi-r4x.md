@@ -1,5 +1,11 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/06/2017:</h2>
+<ul>
+ <li>Pie: Fix FC after reboot with french language  …</li>
+ <li>Fix systemUI FC when using the Language QS tile</li>
+</ul>
+
 <h2>Changelog builds after 12/03/2017:</h2>
 <ul>
 <li>Change to MIUICamera.apk V1.5 from pavaosk@xda<br>Thread: https://forum.xda-developers.com/xiaomi-redmi-4x/themes/camera-mod-miui-camera-added-features-t3713989</li>
