@@ -1,5 +1,11 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/09/2017:</h2>
+<ul>
+ <li>fix compile error due to typo</li>
+ <li>Change to Linux 3.18.85</li>
+</ul>
+
 <h2>Changelog builds after 12/06/2017:</h2>
 <ul>
  <li>Pie: Fix FC after reboot with french language  …</li>
