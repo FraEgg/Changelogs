@@ -1,5 +1,14 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/09/2017:</h2>
+<ul>
+ <b>Sultan-Build:</b>
+<li>pm-levels: Disable sleep by default to speed up boot  ...</li>
+<li>input: synaptics: s3320: Clean up optimized-init insanity  ...</li>
+<li>input: synaptics: s3320: Remove tons of junk </li>
+<li>input: synaptics: s3320: Fix touchscreen not working on wake sometimes  ...</li>
+</ul>
+
 <h2>Changelog builds after 12/06/2017:</h2>
 <ul>
  <li>Pie: Fix FC after reboot with french language  …</li>
