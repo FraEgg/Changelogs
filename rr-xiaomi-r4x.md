@@ -1,5 +1,12 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/10/2017:</h2>
+<ul>
+ <li>santoni: Move to source built audio hal</li>
+ <li>santoni: Move to oss consumerir hal</li>
+ <li>Add missing restore hciattach</li>
+</ul>
+
 <h2>Changelog builds after 12/09/2017:</h2>
 <ul>
  <li>fix compile error due to typo</li>
