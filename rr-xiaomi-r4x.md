@@ -9,6 +9,50 @@
 <li>SystemUI: Fix title text clipping when task lock button is visible …</li>
 <li>Stop explicitly using kCallerPasses_Ownership  …</li>
 <li>Fix ClipboardService device lock check for cross profile  …</li>
+<li>drivers: power: Fix 2% battery level drop</li> 
+<li>proc: Remove verifiedbootstate flag from /proc/cmdline  …</li> 
+<li>proc: Remove additional SafetyNet flags from /proc/cmdline  …</li> 
+<li>Ghost Kernel</li> 
+<li>Enable Fast Charge By Default</li> 
+<li>Update santoni_defconfig</li> 
+<li>netlink: add a start callback for starting a netlink dump  …</li> 
+<li>ipsec: Fix aborted xfrm policy dump crash  …</li> 
+<li>mm, thp: Do not make page table dirty unconditionally in touch_p[mu]d()  …</li> 
+<li>mm/madvise.c: fix madvise() infinite loop under special circumstances  …</li> 
+<li>KVM: x86: Exit to user-mode on #UD intercept when emulator requires  …</li> 
+<li>btrfs: clear space cache inode generation always  …</li> 
+<li>KVM: x86: inject exceptions produced by x86_decode_insn  …</li> 
+<li>eeprom: at24: check at24_read/write arguments  …</li> 
+<li>drm/panel: simple: Add missing panel_simple_unprepare() calls  …</li> 
+<li>NFS: revalidate "." etc correctly on "open".  …</li> 
+<li>drm/i915: Don't try indexed reads to alternate slave addresses …</li> 
+<li>drm/i915: Prevent zero length "index" write  …</li> 
+<li>Linux 3.18.86</li> 
+<li>bcache: only permit to recovery read error when cache device is clean  …</li> 
+<li>bcache: recover data from backing when data is clean  …</li> 
+<li>serial: 8250_fintek: Fix rs485 disablement on invalid ioctl()  …</li> 
+<li>EDAC, sb_edac: Fix missing break in switch  …</li> 
+<li>spi: sh-msiof: Fix DMA transfer size check  …</li> 
+<li>sysrq : fix Show Regs call trace on ARM  …</li> 
+<li>perf test attr: Fix ignored test case result  …</li> 
+<li>ARM: OMAP1: DMA: Correct the number of logical channels  …</li> 
+<li>vti6: fix device register to report IFLA_INFO_KIND  …</li> 
+<li>net/appletalk: Fix kernel memory disclosure  …</li> 
+<li>NFSv4: Fix client recovery when server reboots multiple times  …</li> 
+<li>net: sctp: fix array overrun read on sctp_timer_tbl  …</li> 
+<li>tipc: fix cleanup at module unload  …</li> 
+<li>mm: avoid returning VM_FAULT_RETRY from ->page_mkwrite handlers …</li> 
+<li>net: fec: fix multicast filtering hardware setup  …</li> 
+<li>ima: fix hash algorithm initialization  …</li> 
+<li>usb: quirks: Add no-lpm quirk for KY-688 USB 3.1 Type-C Hub  …</li> 
+<li>uas: Always apply US_FL_NO_ATA_1X quirk to Seagate devices  …</li> 
+<li>serial: 8250_pci: Add Amazon PCI serial device ID  …</li> 
+<li>usb: hub: Cycle HUB power when initialization fails  …</li> 
+<li>USB: Increase usbfs transfer limit  …</li> 
+<li>USB: devio: Prevent integer overflow in proc_do_submiturb()  …</li> 
+<li>USB: usbfs: Filter flags passed in from user space  …</li> 
+<li>usb: host: fix incorrect updating of offset  …</li> 
+<li>Linux 3.18.87</li> 
 </ul>
 
 <h2>Changelog builds after 12/10/2017:</h2>
