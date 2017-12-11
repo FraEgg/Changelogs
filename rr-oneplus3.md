@@ -1,5 +1,16 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/11/2017:</h2>
+<ul>
+ <li>fw/b: Return a KeyEvent instead of a boolean in KeyHandler  …</li>
+<li>ZenModeHelper: Allow lights by default  …</li>
+<li>Clearing up invalid entries when SyncStorageEngine starts  …</li>
+<li>Prevent getting data from Clipboard if device is locked  …</li>
+<li>SystemUI: Fix title text clipping when task lock button is visible …</li>
+<li>Stop explicitly using kCallerPasses_Ownership  …</li>
+<li>Fix ClipboardService device lock check for cross profile  …</li>
+</ul>
+
 <h2>Changelog builds after 12/09/2017:</h2>
 <ul>
  <b>Sultan-Build:</b>
