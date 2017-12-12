@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds 12/12/2017:</h2>
+<ul>
+ <li>revert: fw/b: Return a KeyEvent instead of a boolean in KeyHandler  …</li>
+</ul>
+
 <h2>Changelog builds after 12/11/2017:</h2>
 <ul>
  <li>fw/b: Return a KeyEvent instead of a boolean in KeyHandler  …</li>
