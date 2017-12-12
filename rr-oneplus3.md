@@ -2,7 +2,8 @@
 <p></p>
 <h2>Changelog builds 12/12/2017:</h2>
 <ul>
- <li>revert: fw/b: Return a KeyEvent instead of a boolean in KeyHandler  …</li>
+ <li>CMParts: gestures: Update KeyHandler for API change  …</li>
+ <li>Merge pull request #3 from Davehimself7586/patch-1</li>
 </ul>
 
 <h2>Changelog builds after 12/11/2017:</h2>
