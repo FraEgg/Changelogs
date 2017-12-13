@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/13/2017:</h2>
+<b>Elementalx-Build:</b>
+<ul>
+<li>op3: Disable inline xattr feature for F2FS formatted /data</li>
+</ul>
+
 <h2>Changelog builds 12/12/2017:</h2>
 <ul>
  <li>CMParts: gestures: Update KeyHandler for API change  …</li>
