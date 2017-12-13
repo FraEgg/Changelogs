@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/13/2017:</h2>
+<ul>
+ <li>Update GCam to Arnova's 5.1.018_v1.2: GCam5.1.018-Arnova8G2-V1.2 (2017-12-11)</li>
+</ul>
+
 <h2>Changelog builds 12/12/2017:</h2>
 <ul>
  <li>CMParts: gestures: Update KeyHandler for API change  …</li>
