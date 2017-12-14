@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 12/14/2017:</h2>
 <ul>
- <li>Fix persist.camera.liveshot.size=1280x720</li>
+ <li>Fix persist.camera.liveshot.size=1280x720 (Instagram fix)</li>
 </ul>
 
 <h2>Changelog builds after 12/13/2017:</h2>
