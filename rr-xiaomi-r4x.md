@@ -1,5 +1,13 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/15/2017:</h2>
+<ul>
+<li>Add Sound Control Driver by @flar2</li> 
+<li>change device tree forked from @Nikesh001
+<li>change kernel tree forked from @Nikesh001
+<li>change vendor tree forked from @Nikesh001
+</ul>
+
 <h2>Changelog builds after 12/14/2017:</h2>
 <ul>
  <li>Fix persist.camera.liveshot.size=1280x720 (Instagram fix)</li>
