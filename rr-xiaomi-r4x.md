@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/16/2017:</h2>
+<ul>
+<li>Add Boeffla wakelock Driver 1.1.0</li>
+</ul>
+
 <h2>Changelog builds after 12/15/2017:</h2>
 <ul>
 <li>Add Sound Control Driver by @flar2</li> 
