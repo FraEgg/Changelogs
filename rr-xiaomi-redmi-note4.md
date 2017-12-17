@@ -2,7 +2,6 @@
 <p></p>
 <h2>Changelog builds after 12/17/2017:</h2>
 <ul>
- <li>Add Alipay & WeChat fingerprint payment</li>
  <li>Drivers: misc: implement usb fast charge mode</li>
  <li>Add fastcharge thermal-enginge.conf (Mod)</li>
  <li>Enable Boeffla wakelock Driver 1.1.0 (defconfi)</li>
