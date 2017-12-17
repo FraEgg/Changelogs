@@ -6,6 +6,7 @@
  <li>Enable Boeffla wakelock Driver 1.1.0 (defconfig)</li>
  <li>Add fastcharge thermal-enginge.conf (Mod)</li>
  <li>Add Alipay & WeChat fingerprint payment into new device tree</li>
+ <li>Add CONFIG_FB_MSM_MDSS_KCAL_CTRL=y (KCal) to defconfig</li>
 </ul>
 
 <h2>Changelog builds after 12/16/2017:</h2>
