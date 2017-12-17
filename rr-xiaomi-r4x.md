@@ -1,5 +1,13 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<p></p>
+<h2>Changelog builds after 12/17/2017:</h2>
+<ul>
+ <li>Enable Boeffla wakelock Driver 1.1.0 (defconfig)</li>
+ <li>Add fastcharge thermal-enginge.conf (Mod)</li>
+ <li>Add Alipay & WeChat fingerprint payment</li>
+</ul>
+
 <h2>Changelog builds after 12/16/2017:</h2>
 <ul>
 <li>Add Boeffla wakelock Driver 1.1.0</li>
