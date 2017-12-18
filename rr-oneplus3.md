@@ -1,5 +1,33 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/18/2017:</h2>
+<ul>
+<b>Sultan-Build:</b>
+<li>Merge remote-tracking branch 'msm-3.18/rel/msm-3.18.r5-redone' to Linux from 3.18.31 to 3.18.87: <br>
+Linux 3.18.87<br>
+usb: host: fix incorrect updating of offset<br>
+USB: usbfs: Filter flags passed in from user space<br>
+USB: devio: Prevent integer overflow in proc_do_submiturb()<br>
+USB: Increase usbfs transfer limit<br>
+usb: hub: Cycle HUB power when initialization fails<br>
+serial: 8250_pci: Add Amazon PCI serial device ID<br>
+usb: quirks: Add no-lpm quirk for KY-688 USB 3.1 Type-C Hub<br>
+uas: Always apply US_FL_NO_ATA_1X quirk to Seagate devices<br>
+ima: fix hash algorithm initialization<br>
+net: fec: fix multicast filtering hardware setup<br>
+mm: avoid returning VM_FAULT_RETRY from ->page_mkwrite handlers<br>
+tipc: fix cleanup at module unload<br>
+net: sctp: fix array overrun read on sctp_timer_tbl<br>
+NFSv4: Fix client recovery when server reboots multiple times<br>
+net/appletalk: Fix kernel memory disclosure<br>
+vti6: fix device register to report IFLA_INFO_KIND<br>
+ARM: OMAP1: DMA: Correct the number of logical channels<br>
+perf test attr: Fix ignored test case result<br>
+sysrq : fix Show Regs call trace on ARM<br>
+ ...
+</li>
+</ul>
+
 <h2>Changelog builds after 12/16/2017:</h2>
 <ul>
 <b>Sultan-Build:</b>
