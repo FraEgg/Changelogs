@@ -23,7 +23,9 @@ net/appletalk: Fix kernel memory disclosure<br>
 vti6: fix device register to report IFLA_INFO_KIND<br>
 ARM: OMAP1: DMA: Correct the number of logical channels<br>
 perf test attr: Fix ignored test case result<br>
-sysrq : fix Show Regs call trace on ARM</li>
+sysrq : fix Show Regs call trace on ARM<br>
+ ...
+</li>
 </ul>
 
 <h2>Changelog builds after 12/16/2017:</h2>
