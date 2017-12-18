@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 12/18/2017:</h2>
+<ul>
+<b>Sultan-Build:</b>
+<li>Merge remote-tracking branch 'msm-3.18/rel/msm-3.18.r5-redone' to Linux from 3.18.31 to 3.18.87</li>
+</ul>
+
 <h2>Changelog builds after 12/16/2017:</h2>
 <ul>
 <b>Sultan-Build:</b>
