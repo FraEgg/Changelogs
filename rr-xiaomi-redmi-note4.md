@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 12/18/2017:</h2>
+<ul>
+<li>Reenable Sound Control Driver, Wakelock Driver and Wireguard in defconfig after kernel update</li>
+</ul>
+
 <h2>Changelog builds after 12/17/2017:</h2>
 <ul>
  <li>Drivers: misc: implement usb fast charge mode</li>
