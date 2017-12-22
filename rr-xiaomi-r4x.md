@@ -1,6 +1,6 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
-<h2>Changelog builds after 12/18/2017:</h2>
+<h2>Changelog builds after 12/22/2017:</h2>
 <ul>
  <li>Fix CGam 4.4 (FC)</li>
 </ul>
