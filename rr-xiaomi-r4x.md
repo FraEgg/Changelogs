@@ -1,5 +1,16 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/23/2017:</h2>
+<ul>
+<li>Tweak Power and Temperature control features…</li>
+<li>Update mixer_paths  …</li>
+<li>Update GPS config …</li>
+<li>Update system.prop  …</li>
+<li>BoardConfig: Add missing features  …</li>
+<li>Correct these lines: isn't supported.</li>
+<li>Drop prebuilt camera hal</li>
+</ul>
+
 <h2>Changelog builds after 12/22/2017:</h2>
 <ul>
  <li>Fix CGam 4.4 (FC)</li>
