@@ -1,5 +1,12 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/24/2017:</h2>
+<ul>
+ <li>Merge remote-tracking branch 'Nikesh001/cm.14.1-new' to Linux from 3.18.87 to 3.18.89</li>
+ <li>Add Alucard Governor</li>
+ <li>driver: fingerprint: undef goodix debug</li>
+</ul>
+
 <h2>Changelog builds after 12/23/2017:</h2>
 <ul>
 <li>Tweak Power and Temperature control features…</li>
