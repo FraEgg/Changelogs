@@ -1,5 +1,11 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 12/28/2017:</h2>
+<ul>
+<li>Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel'<br>
+Linux 3.18.90</li>
+</ul>
+ 
 <h2>Changelog builds after 12/24/2017:</h2>
 <ul>
  <li>Merge remote-tracking branch 'Nikesh001/cm.14.1-new' to Linux from 3.18.87 to 3.18.89</li>
