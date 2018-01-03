@@ -2,7 +2,8 @@
 <p></p>
 <h2>Changelog builds after 01/03/2018:</h2>
 <ul>
-<li>device: Fix keylauout for santoni device</li>
+<li>device: Fix keylayout for santoni device</li>
+<li>device: Fix IR Blaster (IR Permissions)</li>
 </ul>
 
 <h2>Changelog builds after 12/28/2017:</h2>
