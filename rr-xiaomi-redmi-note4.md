@@ -1,5 +1,15 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 01/03/2018:</h2>
+<ul>
+<li>kernel: Add exFAT support  …</li>
+<li>kernel: fingerprint: fpc and goodix fixes</li>
+<li>kernel: Add Alucard Governor</li>
+<li>kernel: Add ElementalX governor</li>
+<li>kernel: Add ZEN Scheduler</li>
+<li>kernel: block: add zen scheduler  … </li>
+</ul>
+
 <h2>Changelog builds after 12/18/2017:</h2>
 <ul>
 <li>Reenable Sound Control Driver, Wakelock Driver and Wireguard in defconfig after kernel update</li>
