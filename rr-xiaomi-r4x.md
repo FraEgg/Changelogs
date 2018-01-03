@@ -4,6 +4,8 @@
 <ul>
 <li>device: Fix keylayout for santoni device</li>
 <li>device: Fix IR Blaster (IR Permissions)</li>
+<li>kernel: add elementalx governor</li>
+<li>kernel: fix alucard governor</li>
 </ul>
 
 <h2>Changelog builds after 12/28/2017:</h2>
