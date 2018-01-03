@@ -1,6 +1,6 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
-<h2>Changelog builds after 18/03/2018:</h2>
+<h2>Changelog builds after 01/03/2018:</h2>
 <ul>
 <li>device: Fix keylauout for santoni device</li>
 </ul>
