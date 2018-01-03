@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 18/03/2018:</h2>
+<ul>
+<li>device: Fix keylauout for santoni device</li>
+</ul>
+
 <h2>Changelog builds after 12/28/2017:</h2>
 <ul>
 <li>Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel'<br>
