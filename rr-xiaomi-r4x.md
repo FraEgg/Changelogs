@@ -5,6 +5,7 @@
 <li>kernel: Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel' into cm-14.1-luis<br>
 android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel: (33 commits)<br>
  Linux 3.18.91</li>
+<li>Update GCam to Camera_5.1.016.174405463</li>
 <li>device: Fix keylayout for santoni device</li>
 <li>device: Fix IR Blaster (IR Permissions)</li>
 <li>kernel: add elementalx governor</li>
