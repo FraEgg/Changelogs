@@ -2,10 +2,18 @@
 <p></p>
 <h2>Changelog builds after 01/03/2018:</h2>
 <ul>
+<li>kernel: Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel' into cm-14.1-luis<br>
+android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel: (33 commits)<br>
+ Linux 3.18.91</li>
 <li>device: Fix keylayout for santoni device</li>
 <li>device: Fix IR Blaster (IR Permissions)</li>
 <li>kernel: add elementalx governor</li>
 <li>kernel: fix alucard governor</li>
+<li>kernel: bug: goodix fingerprint driver support</li>
+<li>kernel: enable ntfs driver</li>
+<li>kernel: enable extFAT driver</li>
+<li>kernel: enable F2FS ENCRYPTION</li>
+
 </ul>
 
 <h2>Changelog builds after 12/28/2017:</h2>
