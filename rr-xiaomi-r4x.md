@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 01/04/2018:</h2>
+<ul>
+ <li>Change GoogleCamera to MGC-5.1.018_FullManual_v1.2_Android-7.0+</li>
+</ul>
+
 <h2>Changelog builds after 01/03/2018:</h2>
 <ul>
 <li>kernel: Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel' into cm-14.1-luis<br>
