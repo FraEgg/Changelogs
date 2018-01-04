@@ -5,6 +5,7 @@
  <li>Change GoogleCamera to MGC-5.1.018_FullManual_v1.2_Android-7.0+</li>
  <li>input: doubletap2wake: disable by default  …</li>
  <li>Remove default Wakelocks from driver</li>
+ </li>Defconfig: drop NFCQ driver, santoni doesn't have NFC</li>
 </ul>
 
 <h2>Changelog builds after 01/03/2018:</h2>
