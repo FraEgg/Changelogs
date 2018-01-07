@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 01/07/2018:</h2>
+<ul>
+ <li>device: Update media_profiles.xml (highspeed) for GoogleCamera (GCam)</li>
+</ul>
+
 <h2>Changelog builds after 01/04/2018:</h2>
 <ul>
  <li>Change GoogleCamera to MGC-5.1.018_FullManual_v1.2_Android-7.0+</li>
