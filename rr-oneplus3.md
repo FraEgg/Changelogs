@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/08/2018:</h2>
+<ul>
+ <li>device: Update media_profiles.xml for hevc (GCam)</li>
+</ul>
+
 <h2>Changelog builds after 01/04/2018:</h2>
 <ul>
  <li>Change GoogleCamera to MGC-5.1.018_FullManual_v1.2_Android-7.0+</li>
