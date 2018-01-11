@@ -3,7 +3,10 @@
 <h2>Changelog builds after 01/11/2018:</h2>
 <ul>
 <li>santoni: Drop prebuilt cam</li>
-</il>
+ <li>santoni: Enable f2fs</li>
+ <li>santoni: Enable Sdcardfs</li>
+ <li>santoni: Fixed Recent key</li>
+</ul>
 
 <h2>Changelog builds after 01/04/2018:</h2>
 <ul>
