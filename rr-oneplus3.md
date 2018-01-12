@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/12/2018:</h2>
+<ul>
+<li>Change Google Camera to Version MGC_5.1.018.177470874.41362666__A7.0-8.1_MI5S_v2b (https://www.celsoazevedo.com/files/android/google-camera/)</li>
+</ul>
+ 
 <h2>Changelog builds after 01/08/2018:</h2>
 <ul>
  <li>device: Update media_profiles.xml for hevc (GCam)</li>
