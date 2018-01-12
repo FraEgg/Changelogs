@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 01/12/2018:</h2>
+<ul>
+<li>santoni: Revert"Drop prebuilt cam"</li>
+</ul>
+
 <h2>Changelog builds after 01/11/2018:</h2>
 <ul>
 <li>santoni: Drop prebuilt cam</li>
