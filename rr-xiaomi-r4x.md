@@ -2,6 +2,11 @@
 <p></p>
 <h2>Changelog builds after 01/12/2018:</h2>
 <ul>
+ <h2>Changelog builds 01/13/2018:</h2>
+<ul>
+ <li>device: Fix Miracast & Cast</li>
+</ul>
+ 
 <li>santoni: Revert"Drop prebuilt cam"</li>
 <li>Change Google Camera to Version MGC_5.1.018.177470874.41362666__A7.0-8.1_MI5S_v2b (https://www.celsoazevedo.com/files/android/google-camera/)</li>
 <li>Change to OnePlus Gallery 2.0.44</li>
