@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds 01/13/2018:</h2>
+<ul>
+ <li>device: Fix Miracast & Cast</li>
+</ul>
+
 <h2>Changelog builds 12/12/2017:</h2>
 <ul>
  <li>CMParts: gestures: Update KeyHandler for API change  …</li>
