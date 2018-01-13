@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 01/13/2018:</h2>
 <ul>
-<li>Fix cast in system.prob (persits.debug.wfd.enable=1 and persist.sys.wfd.virtual=0)</li>
+<li>Fix cast in system.prob (persist.debug.wfd.enable=1 and persist.sys.wfd.virtual=0)</li>
 </ul>
 
 <h2>Changelog builds after 01/12/2018:</h2>
