@@ -1,10 +1,5 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
-<h2>Changelog builds 01/14/2018:</h2>
-<ul>
-<li>kernel: change kernelsource from revolt Linux 3.18.90</li>
-</ul>
-
 <h2>Changelog builds 01/13/2018:</h2>
 <ul>
  <li>device: Fix Miracast & Cast</li>
