@@ -2,17 +2,7 @@
 <p></p>
 <h2>Changelog builds 01/14/2018:</h2>
 <ul>
-<li>kernel: change kernelsource from stormguard_kernel msm Linux 3.18.89</li>
-<li>Add WIREGUARD in defconfig</li>
-<li>Add NTFS support  …</li>
-<li>Add exFAT support  …</li>
-<li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital …</li>
-<li>Add ASoC: msm8x16-wcd: Sound control: add mic gain  …</li>
-<li>Add ASoC: msm8x16-wcd: Sound control  …</li>
-<li>Add boeffla_wl_blocker: Block default wakelocks we had before  …</li>
-<li>Add boeffla_wl_blocker: update to wakelock blocker driver v1.1.0  …</li>
-<li>Add boeffla_wl_blocker: update to wakelock blocker driver v1.0.1  …</li>
-<li>Add boeffla_wl_blocker: add generic wakelock blocker </li>
+<li>kernel: change kernelsource from revolt Linux 3.18.90</li>
 </ul>
 
 <h2>Changelog builds 01/13/2018:</h2>
