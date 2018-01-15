@@ -3,7 +3,7 @@
 <h2>Changelog builds 01/14/2018:</h2>
 <ul>
 <li>kernel: change kernelsource from stormguard_kernel msm Linux 3.18.89</li>
-<li>Add CONFIG_WIREGUARD</li>
+<li>Add WIREGUARD in defconfig</li>
 <li>Add NTFS support  …</li>
 <li>Add exFAT support  …</li>
 <li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital …</li>
