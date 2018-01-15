@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/14/2018:</h2>
+<ul>
+ <li>Remove Boeffla Wakeblock Driver from Kernel (instable on Sultan Kernel)</li>
+</ul>
+
 <h2>Changelog builds after 01/13/2018:</h2>
 <ul>
 <li>Fix miracast in system.prob (persist.debug.wfd.enable=1 and persist.sys.wfd.virtual=0)</li>
