@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds 01/22/2018:</h2>
+<ul>
+<li>android: Update Security patch level 2018-01-05</li>
+</ul>
+
 <h2>Changelog builds 01/17/2018:</h2>
 <ul>
 <li>bt: add AptX blobs from OnePlus3t OxygenOS OpenBeta 5</li>
