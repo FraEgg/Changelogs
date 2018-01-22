@@ -1,6 +1,6 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
-<h2>Changelog builds 01/22/2018:</h2>
+<h2>Changelog builds after 01/22/2018:</h2>
 <ul>
 <li>Android: Update Security patch level 2018-01-05</li>
 </ul>
