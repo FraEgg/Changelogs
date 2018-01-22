@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds 01/22/2018:</h2>
+<ul>
+<li>android: Update Security patch level 2018-01-05</li>
+</ul>
+
 <h2>Changelog builds after 01/14/2018:</h2>
 <ul>
  <li>Remove Boeffla Wakeblock Driver from Kernel (instable on Sultan Kernel)</li>
