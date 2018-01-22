@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds 01/22/2018:</h2>
+<ul>
+<li>android: Update Security patch level 2018-01-05</li>
+</ul>
+
 <h2>Changelog builds 01/13/2018:</h2>
 <ul>
  <li>device: Fix Miracast & Cast</li>
