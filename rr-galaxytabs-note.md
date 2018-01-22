@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds 01/22/2018:</h2>
 <ul>
-<li>android: Update Security patch level 2018-01-05</li>
+<li>Android: Update Security patch level 2018-01-05</li>
 </ul>
 
 <h2>Changelog builds 01/17/2018:</h2>
