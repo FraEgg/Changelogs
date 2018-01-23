@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 01/23/2018:</h2>
+<ul>
+ <li>Add AptXHD for all exynos 5420 devices</li>
+</ul>
+
 <h2>Changelog builds after 01/22/2018:</h2>
 <ul>
 <li>Android: Update Security patch level 2018-01-05</li>
