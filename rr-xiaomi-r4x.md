@@ -22,7 +22,7 @@
   <li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital gain</li>
   <li>ASoC: msm8x16-wcd: Sound control: add mic gain</li>
  <li>ASoC: msm8x16-wcd: Sound control<br>...</li>
-<ul>
+</ul>
  
 <h2>Changelog builds after 01/22/2018:</h2>
 <ul>
