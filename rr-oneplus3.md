@@ -26,6 +26,8 @@
   ipx: call ipxitf_put() in ioctl error path<br>
   ...
   </li>
+  <li>device: Disable user panic feature</li>
+  <li>device: Disable inline xattr feature for F2FS formatted /data</li>
 </ul>
 
 <h2>Changelog builds after 01/22/2018:</h2>
