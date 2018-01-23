@@ -23,7 +23,9 @@
   driver core: platform: fix race condition with driver_override<br>
   mm/mempolicy.c: fix error handling in set_mempolicy and mbind.<br>
   ip6_gre: fix ip6gre_err() invalid reads<br>
-  ipx: call ipxitf_put() in ioctl error path</li>
+  ipx: call ipxitf_put() in ioctl error path<br>
+  ...
+  </li>
 </ul>
 
 <h2>Changelog builds after 01/22/2018:</h2>
