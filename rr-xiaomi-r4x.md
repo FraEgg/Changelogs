@@ -1,5 +1,29 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 01/23/2018:</h2>
+<ul>
+  <li>defconfig:Enable exFAT</li>
+  <li>defconfig:Enable F2fs</li>
+  <li>Add exFAT support</li>
+  <li>Defconfig:Enable F2FS_FS_ENCRYPTION</li>
+  <li>Defconfig:Enable NTFS</li>
+  <li>:bug: fingerprint: fpc and goodix fixes</li>
+  <li>Defconfig: enable boeffla wakelock blocker</li>
+  <li>boeffla_wl_blocker: update to wakelock blocker driver v1.1.0</li>
+  <li>boeffla_wl_blocker: update to wakelock blocker driver v1.0.1</li>
+  <li>boeffla_wl_blocker: add generic wakelock blocker driver v1.0.0</li>
+  <li>Defconfig:Enalbed ElementalX governor</li>
+  <li>cpufreq; add elementalx governor</li>
+  <li>Defconfig: Add ZEN I/O Scheduler</li>
+  <li>block: add zen scheduler</li>
+  <li>Defconfig: Enabled Sound control</li>
+  <li>Defconfig: drop NFCQ driver, santoni doesn't have NFC.</li>
+  <li>ASoC: msm8x16-wcd: add speaker gain and prevent reset</li>
+  <li>ASoC: msm8x16-wcd: Sound control: allow further reduction of digital gain</li>
+  <li>ASoC: msm8x16-wcd: Sound control: add mic gain</li>
+ <li>ASoC: msm8x16-wcd: Sound control<br>...</li>
+<ul>
+ 
 <h2>Changelog builds after 01/22/2018:</h2>
 <ul>
 <li>Android: Update Security patch level 2018-01-05</li>
