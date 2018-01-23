@@ -1,5 +1,31 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/23/2018:</h2>
+<ul>
+<li>Merge branch 'cm-14.1-sultan' into cm-14.1-luis<br>
+* cm-14.1-sultan: (35 commits)<br>
+  oneplus3_defconfig: Don't disable heap placement randomization<br>
+  oneplus3_defconfig: Regenerate<br>
+  qcom-cpufreq: Clean up underclock code<br>
+  Revert "Revert "msm: mdss: add recovery if TE is not coming from the panel""<br>
+  qcacld-2.0: Update to CAF LA.UM.5.5.r1-06400-8x96.0<br>
+  msm: camera: isp: Allocate kernel page and map to userspace<br>
+  power: qpnp-smbcharger: Disable parallel charger before changing ICL<br>
+  BACKPORT: ext4: fix data exposure after a crash<br>
+  msm: camera: Synchronize v4l2 subscribe and unsubscribe event in camera.c<br>
+  msm: sps: Update debug message format specifier<br>
+  diag: dci: Add validity check for dci client's process descriptor<br>
+  msm: msm_bus: Add mutex lock for floor vote data<br>
+  msm: sde: disable support for v4l2 event subscription<br>
+  ext4: provide ext4_issue_zeroout()<br>
+  packet: fix races in fanout_add()<br>
+  Bluetooth - Fix for checking proper user-supplied buffers<br>
+  driver core: platform: fix race condition with driver_override<br>
+  mm/mempolicy.c: fix error handling in set_mempolicy and mbind.<br>
+  ip6_gre: fix ip6gre_err() invalid reads<br>
+  ipx: call ipxitf_put() in ioctl error path</li>
+</ul>
+
 <h2>Changelog builds after 01/22/2018:</h2>
 <ul>
 <li>Android: Update Security patch level 2018-01-05</li>
