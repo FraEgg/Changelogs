@@ -2,6 +2,8 @@
 <p></p>
 <h2>Changelog builds after 01/23/2018:</h2>
 <ul>
+  <li>Merge remote-tracking branch 'android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel'<br>
+Linux 3.18.92</li>
   <li>defconfig:Enable exFAT</li>
   <li>defconfig:Enable F2fs</li>
   <li>Add exFAT support</li>
