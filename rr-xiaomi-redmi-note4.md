@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 01/26/2018:</h2>
+<ul>
+<li>Update GoogleCamera (GCam5.1.018-Arnova8G2-V1.6) Link: https://www.celsoazevedo.com/files/android/google-camera/</li>
+</ul>
+
 <h2>Changelog builds after 01/22/2018:</h2>
 <ul>
 <li>Android: Update Security patch level 2018-01-05</li>
