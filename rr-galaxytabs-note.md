@@ -20,6 +20,27 @@ vinit: disable touchscreen and touchkey input boosters</li>
 <li>proprietary-files: Update widevine</li>
 <li>Use modified open source camera wrapper [1/2]</li>
 <li>SamsungPowerHAL: do not define CPU4 node paths</li>
+<li>Revert "net: wireless: bcmdhd: fix buffer overrun in private command path buffer overrun case found when length parameter manipulated."</li>
+<li>ipv6: fix out of bound writes in __ip6_append_data()</li>
+<li>BACKPORT: ipv6/dccp: do not inherit ipv6_mc_list from parent Like commit 657831ffc38e ("dccp/tcp: do not inherit mc_list from parent") we should clear ipv6_mc_list etc. for IPv6 sockets too.</li>
+<li>BACKPORT: sctp: do not inherit ipv6_{mc|ac|fl}_list from parent SCTP needs fixes similar to 83eaddab4378 ("ipv6/dccp: do not inherit ipv6_mc_list from parent"), otherwise bad things can happen.</li>
+<li>ipv6: Check ip6_find_1stfragopt() return value properly.</li>
+<li>ipv6: Prevent overrun when parsing v6 header options</li>
+<li>unix: correctly track in-flight fds in sending process user_struct</li>
+<li>unix: properly account for FDs passed over unix sockets</li>
+<li>ext4: fix fencepost in s_first_meta_bg validation</li>
+<li>ext4: fix condition of validate s_first_meta_bg</li>
+<li>dccp/tcp: do not inherit mc_list from parent</li>
+<li>ping: implement proper locking</li>
+<li>selinux: fix off-by-one in setprocattr</li>
+<li>fs/exec.c: account for argv/envp pointers</li>
+<li>BACKPORT: fiq_debugger: restrict access to critical commands.</li>
+<li>sctp: validate chunk len before actually using it</li>
+<li>net: wireless: bcmdhd: fix buffer overrun in private command path buffer overrun case found when length parameter manipulated.</li>
+<li>arm: oabi compat: add missing access checks</li>
+<li>kernel: Restrict permissions of /proc/iomem.</li>
+<li>ALSA: compress: fix an integer overflow check<br>
+...</li>
 </ul>
 
 <h2>Changelog builds after 01/23/2018:</h2>
