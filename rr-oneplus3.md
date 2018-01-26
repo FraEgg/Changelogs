@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/26/2018:</h2>
+<ul>
+<li>Update GoogleCamera (GCam5.1.018-Arnova8G2-V1.6) Link: https://www.celsoazevedo.com/files/android/google-camera/</li>
+<li>Revert some Camera2Api commits (blue and red pixel with gacm)</li>
+</ul>
+
 <h2>Changelog builds after 01/23/2018:</h2>
 <ul>
 <li>Merge branch 'cm-14.1-sultan' into cm-14.1-luis<br>
