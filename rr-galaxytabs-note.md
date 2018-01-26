@@ -1,5 +1,27 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 01/26/2018:</h2>
+<ul>
+<li>exynos5420-common: Add AptX blobs</li>
+<li>exynos5420-common: enable AptXHD</li>
+<li>exynos5420-common: enable OLED burnIn protection support</li>
+<li>Don't seclabel sswap</li>
+<li>Remove useless property sets</li>
+<li>power: adjust the header for the new dynamic cluster configuration</li>
+vinit: disable touchscreen and touchkey input boosters</li>
+<li>exynos5420: enable variable touchkey brightness support</li>
+<li>sepolicy: address a gpsd denial</li>
+<li>exynos5420-common: Disable BOARD_CHARGER_ENABLE_SUSPEND</li>
+<li>selinux: handle some denials</li>
+<li>Revert "GPU: set 533mhz as the default max gpu clock"</li>
+<li>system_props: Enable sdcardfs</li>
+<li>sepolicy: Fix exFAT permissions</li>
+<li>sepolicy: Update debugfs rules</li>
+<li>proprietary-files: Update widevine</li>
+<li>Use modified open source camera wrapper [1/2]</li>
+<li>SamsungPowerHAL: do not define CPU4 node paths</li>
+</ul>
+
 <h2>Changelog builds after 01/23/2018:</h2>
 <ul>
  <li>Add AptXHD for all exynos 5420 devices</li>
