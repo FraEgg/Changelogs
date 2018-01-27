@@ -1,5 +1,17 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 01/27/2018:</h2>
+<ul>
+<li>chagalllte: CONFIG_SECURITY_SELINUX_DEVELOP is not set (selinux enforcing)</li>
+<li>v1awifi: Kernel Enforcing  …</li>
+<li>fs/exec: fix use after free in execve</li>
+<li>ALSA: compress_core: integer overflow in snd_compr_allocate_buffer() …</li>
+<li>ALSA: compress - move the buffer check</li>
+<li>ALSA: compress: fix an integer overflow check</li>
+<li>net: wireless: bcmdhd: fix buffer overrun in private command path</li>
+<li>ext4: fix condition of validate s_first_meta_bg  …</li>
+</ul>
+
 <h2>Changelog builds after 01/26/2018:</h2>
 <ul>
 <li>exynos5420-common: Add AptX blobs</li>
