@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 01/29/2018:</h2>
+<ul>
+<li>chagallwifi: Revert some device commits (fix wifi issue)</li>
+</ul>
+
 <h2>Changelog builds after 01/27/2018:</h2>
 <ul>
 <li>chagalllte: CONFIG_SECURITY_SELINUX_DEVELOP is not set (selinux enforcing)</li>
