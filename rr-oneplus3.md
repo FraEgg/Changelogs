@@ -1,9 +1,9 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
 <h2>Changelog builds after 01/31/2018:</h2>
-Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis<br>
 <ul>
-<li>sultanxda/cm-14.1-sultan: (33 commits)
+<li>Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis<br>
+sultanxda/cm-14.1-sultan: (33 commits)<br>
   Revert "msm: camerav2: isp: Reserve rdi ub based on image size"<br>
   msm: sensor: Don't return an error when failing to read pinctrl<br>
   iommu: Don't return an error during init when debugfs init fails<br>
