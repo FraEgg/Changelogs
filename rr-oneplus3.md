@@ -1,8 +1,7 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
 <h2>Changelog builds after 01/31/2018:</h2>
-<ul>
-Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis
+Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis<br>
 <ul>
 <li>sultanxda/cm-14.1-sultan: (33 commits)
   Revert "msm: camerav2: isp: Reserve rdi ub based on image size"<br>
