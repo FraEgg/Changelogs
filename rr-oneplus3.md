@@ -1,5 +1,33 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 01/31/2018:</h2>
+<ul>
+Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis
+<ul>
+<li>sultanxda/cm-14.1-sultan: (33 commits)
+  Revert "msm: camerav2: isp: Reserve rdi ub based on image size"<br>
+  msm: sensor: Don't return an error when failing to read pinctrl<br>
+  iommu: Don't return an error during init when debugfs init fails<br>
+  oneplus3_defconfig: Disable EFI<br>
+  msm: secure_buffer: Fix stage-2 protection of kernel text region<br>
+  qcacld-2.0: Update to CAF LA.UM.5.5.r1-06700-8x96.0<br>
+  msm: ipa: Fix the handling of default IPA header<br>
+  socinfo: msm: Add soc id for SDA450<br>
+  ARM: dts: msm: Add DT support for SDA450 with PMI8950<br>
+  msm: sensor: actuator: add null pointer check for i2c array<br>
+  soc: qcom: pil: Fix error handling during PIL driver probe<br>
+  drivers: cpuidle: lpm-levels: Fix untrusted pointer dereference.<br>
+  oc: qcom: rpm-smd-debug: Fix potential memory leaks<br>
+  usb: gadget: f_uvc: Correct SS Companion descriptors<br>
+  usb: gadget: f_uvc: Fix incorrect wBytesPerInterval<br>
+  msm: camera: Prevent buffer overread in write_logsync.<br>
+  ALSA: pcm: add locks for accessing runtime resource<br>
+  ALSA: pcm: use lock to protect substream runtime resource<br>
+  ion: ensure CMO target is valid<br>
+  msm: adsprpc: Use unsigned integer for length values<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 01/26/2018:</h2>
 <ul>
 <li>Update GoogleCamera (GCam5.1.018-Arnova8G2-V1.6) Link: https://www.celsoazevedo.com/files/android/google-camera/</li>
