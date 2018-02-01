@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 02/01/2018:</h2>
+<ul>
+  <li>Update weather provider apks</li>
+</ul>
+
 <h2>Changelog builds after 01/31/2018:</h2>
 <ul>
 <li>Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-luis<br>
