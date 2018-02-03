@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 02/03/2018:</h2>
 <ul>
-  <li>Change to MIUI Camera for Nougat</li>
+  <li>Add MIUI Camera for Nougat</li>
 </ul>
   
 <h2>Changelog builds after 02/01/2018:</h2>
