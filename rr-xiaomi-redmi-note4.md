@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 02/03/2018:</h2>
+<ul>
+  <li>Change to MIUI Camera for Nougat</li>
+<ul>
+  
 <h2>Changelog builds after 02/01/2018:</h2>
 <ul>
   <li>Update weather provider apks</li>
