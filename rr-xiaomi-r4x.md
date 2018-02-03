@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 02/03/2018:</h2>
+<ul>
+  <li>Change to MIUI Camera for Nougat</li>
+</ul>
+
 <h2>Changelog builds after 02/02/2018:</h2>
 <ul>
 <li>Change GoogleCamera to MGC_5.1.018.177470874.41362666__A7.0-8.1_kenzo_v2e_by_SerJo87_v1.4</li>
