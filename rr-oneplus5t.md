@@ -2,5 +2,5 @@
 <p></p>
 <h2>Changelog builds after 02/05/2018:</h2>
 <ul>
-  <li>Initial sultanize RR Luis Build for Oneplus 5T (dumpling)</li>
+  <li>Initial sultanize RR Luis Build (Nougat) for Oneplus 5T (dumpling)</li>
 </ul>
