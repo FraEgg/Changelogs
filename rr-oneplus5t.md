@@ -3,8 +3,8 @@
 <h2>Changelog builds after 02/07/2018:</h2>
 <ul>
   <li>kernel: disable crc check  …</li>
-  <li>Added fsync on/off support.  …</li>
-  <li>sweep2sleep: turn off screen by sweeping over navbar</li>
+  <li>kernel: Added fsync on/off support.  …</li>
+  <li>kernel: sweep2sleep: turn off screen by sweeping over navbar</li>
 </ul>
 <h2>Changelog builds after 02/05/2018:</h2>
 <ul>
