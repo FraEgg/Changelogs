@@ -1,4 +1,4 @@
-<h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
+<h1>Changelog RR-Luis-Builds Oneplus 5T</h1>
 <p></p>
 <h2>Changelog builds after 02/07/2018:</h2>
 <ul>
