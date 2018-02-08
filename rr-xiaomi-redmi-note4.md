@@ -2,12 +2,12 @@
 <p></p>
 <h2>Changelog builds after 02/08/2018:</h2>
 <ul>
-<li>leds-aw2013: Don't reset values when nothing has changed  …</li>
-<li>leds: aw2013: Reduce logging level  …</li>
-<li>leds: aw2013: Use an ordered workqueue for command processing  … </li>
-<li>leds: aw2013_led: Don't reset the brightness level when setting blink  …</li>
-<li>leds: aw2013_led: Support configuring GPIOs before use  …</li>
-  <li>leds: aw2013_led: Allow direct GPIO control as an alternative to vcc</li>
+<li>kernel: leds-aw2013: Don't reset values when nothing has changed  …</li>
+<li>kernel: leds: aw2013: Reduce logging level  …</li>
+<li>kernel: leds: aw2013: Use an ordered workqueue for command processing  … </li>
+<li>kernel: leds: aw2013_led: Don't reset the brightness level when setting blink  …</li>
+<li>kernel: leds: aw2013_led: Support configuring GPIOs before use  …</li>
+<li>kernel: leds: aw2013_led: Allow direct GPIO control as an alternative to vcc</li>
 </ul>
 
 <h2>Changelog builds after 02/03/2018:</h2>
