@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 02/08/2018:</h2>
+<ul>
+  <li>disable crc check  …</li>
+  <li>Added fsync on/off support.  …  </li>
+</ul>
+
 <h2>Changelog builds after 02/07/2018:</h2>
 <ul>
   <li>frameworks: Add signature Spoofing permission (microG)</li>
