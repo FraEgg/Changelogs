@@ -2,8 +2,8 @@
 <p></p>
 <h2>Changelog builds after 02/10/2018:</h2>
 <ul>
-Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-… 
-msm: thermal: simple: Fix incorrect notifier priority  …
+  <li>Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-…</li> 
+  <li>msm: thermal: simple: Fix incorrect notifier priority  …</li>
 </ul>
 
 <h2>Changelog builds after 02/03/2018:</h2>
