@@ -1,5 +1,11 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 02/10/2018:</h2>
+<ul>
+Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-… 
+msm: thermal: simple: Fix incorrect notifier priority  …
+</ul>
+
 <h2>Changelog builds after 02/03/2018:</h2>
 <ul>
   <li>Update Google Camera to GoogleCamera-Pixel2Mod-Arnova8G2-V5</li>
