@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 02/12/2018:</h2>
+<ul>
+  <li>dumpling: audio: Fix typo on mmap-buffer-playback hdmi</li>
+</ul>
+
 <h2>Changelog builds after 02/09/2018:</h2>
 <ul>
   <li>device/vendor: add aptX and aptX HD support</li>
