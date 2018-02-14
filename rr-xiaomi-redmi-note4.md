@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 02/14/2018:</h2>
+<ul>
+  <li>Bump security patch level to 2018-02-05</li>
+</ul>
+
 <h2>Changelog builds after 02/08/2018:</h2>
 <ul>
 <li>kernel: leds-aw2013: Don't reset values when nothing has changed  …</li>
