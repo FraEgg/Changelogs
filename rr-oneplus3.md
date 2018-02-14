@@ -1,5 +1,10 @@
 <h1>Changelog RR-Luis-Builds Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 02/14/2018:</h2>
+<ul>
+  <li>Bump security patch level to 2018-02-05</li>
+</ul>
+
 <h2>Changelog builds after 02/10/2018:</h2>
 <ul>
   <li>Merge remote-tracking branch 'sultanxda/cm-14.1-sultan' into cm-14.1-…</li> 
