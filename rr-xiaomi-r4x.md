@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 02/14/2018:</h2>
+<ul>
+  <li>Bump security patch level to 2018-02-05</li>
+</ul>
+
 <h2>Changelog builds after 02/03/2018:</h2>
 <ul>
   <li>Add MIUI Camera for Nougat</li>
