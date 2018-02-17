@@ -1,4 +1,4 @@
-<h1>Changelog Unofficial RR-LuisROM Builds for Oneplus 5T (dumpling)</h1>
+<h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
 <h2>Changelog builds after 02/18/2018:</h2>
 <b>First public beta build</b><br>
