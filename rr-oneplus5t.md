@@ -1,27 +1,34 @@
-<h1>Changelog Unofficial RR-LuisROM Builds for Oneplus 5T (dumpling)</h1>
+<h1>Changelog RR-Luis-Builds Oneplus 5T (dumpling)</h1>
 <p></p>
-<h2>Changelog builds after 02/18/2018:</h2>
-<b>First public beta build</b><br>
-Custom kernel features:<br>
+<h2>Changelog builds after 02/14/2018:</h2>
 <ul>
-<li>block: add zen scheduler</li>
-<li>optional: cpufreq: Underclock performance cluster to 1958400 kHz  … (powersave LuisKERNEL)</li>
-<li>display: add a simple api to query the display state (on/off) at any.</li>
-<li>leds-qpnp: Notification LED control - V1.1c</li>
-<li>mdss_fb: add backlight dimmer option</li>
-<li>block: add zen scheduler</li>
-<li>Add SIO and FIOPS i/o schedulers  …</li>
-<li>ASoC: msm: qdsp6v2: Add simple API to check if a voice call is active  …</li>
-<li>kernel: enable msm kernel protect</li>
-<li>net/wireguard: add wireguard importer  …</li>
-<li>disable crc check  …</li>
-<li>Added fsync on/off support.  …<li>
-<li>ASoC: wcd9335: add earpiece and mic gain, prevent headphone reset</li>
-<li>ASoC: wcd9335: Sound control</li>
-<li>workqueue: Schedule workers on CPU0 or 0-3 by default  …</li>
-<li>ARM: dts: msm8998: Configure msm-thermal-simple device  …</li>
-<li>cpu_input_boost: Add support for msm8998  …</li>
-<li>power: msm-core: Compile out temperature polling  …</li>
-<li>misc: goodix: Disable nav events  …</li>
-<li>and other tweaks...</li>
+  <li>Bump security patch level to 2018-02-05</li>
+</ul>
+
+<h2>Changelog builds after 02/12/2018:</h2>
+<ul>
+  <li>dumpling: audio: Fix typo on mmap-buffer-playback hdmi</li>
+</ul>
+
+<h2>Changelog builds after 02/09/2018:</h2>
+<ul>
+  <li>device/vendor: add aptX and aptX HD support</li>
+  <li>device: Enable HAL3 for GCam</li>
+</ul>
+
+<h2>Changelog builds after 02/08/2018:</h2>
+<ul>
+  <li>kernel: disable crc check  …</li>
+  <li>kernel: Added fsync on/off support.  …  </li>
+</ul>
+
+<h2>Changelog builds after 02/07/2018:</h2>
+<ul>
+  <li>frameworks: Add signature Spoofing permission (microG)</li>
+  <li>kernel: Revert "cpufreq: Underclock performance cluster to 1958400 kHz"</li>
+  <li>kernel: Declare mode and keyCode to slider (fix hardware keys)</li>
+</ul>
+<h2>Changelog builds after 02/05/2018:</h2>
+<ul>
+  <li>Initial sultanize RR Luis Build (Nougat) for Oneplus 5T (dumpling)</li>
 </ul>
