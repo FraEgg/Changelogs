@@ -15,7 +15,7 @@ Custom kernel features:<br>
 <li>kernel: enable msm kernel protect</li>
 <li>net/wireguard: add wireguard importer  …</li>
 <li>disable crc check  …</li>
-<li>Added fsync on/off support.  …<li>
+<li>Added fsync on/off support.  …</li>
 <li>ASoC: wcd9335: add earpiece and mic gain, prevent headphone reset</li>
 <li>ASoC: wcd9335: Sound control</li>
 <li>workqueue: Schedule workers on CPU0 or 0-3 by default  …</li>
