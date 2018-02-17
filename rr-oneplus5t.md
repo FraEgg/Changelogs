@@ -1,4 +1,4 @@
-<h1>Changelog RR-Luis-Builds Oneplus 5T (dumpling)</h1>
+<h1>Changelog for unofficial RR-Nougat LuisROM Builds for the Oneplus 5T (dumpling)</h1>
 <p></p>
 <h2>Changelog builds after 02/14/2018:</h2>
 <ul>
