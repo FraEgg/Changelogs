@@ -1,5 +1,13 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 02/19/2018:</h2>
+<ul>
+  <li>device: Add Google Camera (GCam5.1.018-Arnova8G2-V1.6)</li>
+  <li>device: Add Oneplus Camera 2.5.21 (OP5)</li>
+  <li>device: Add Oneplus Gallery 2.0.47 (OP5)</li>
+  <li>framework: Add signature spoofing permission for oreo (microg)</li>
+</ul>
+
 <h2>Changelog builds after 02/18/2018:</h2>
 <b>First public beta build</b><br>
 Custom kernel features:<br>
