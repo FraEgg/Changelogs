@@ -2,14 +2,7 @@
 <p></p>
 <h2>Changelog builds and kernel release after 02/19/2019:</h2>
 <ul>
-<li>kernel: power: bq27541: Rewrite based on bacon bq27541 rewrite</li>
-<li>kernel: i2c-msm-v2: Ensure system is always active for i2c transfers  …</li>
 <li>kernel: boeffla_wl_blocker: update to wakelock blocker driver v1.1.0  …</li>
-<li>kernel: mdss: livedisplay: Don't send sRGB/DCI-P3 off cmd when dsi on  …</li>
-<li>kernel: mdss: livedisplay: Add support for DCI-P3 mode  …</li>
-<li>kernel: mdss: livedisplay: Fix memory leaks in mdss_livedisplay_update()  …</li>
-<li>kernel: mdss: livedisplay: Add commands to enable SRGB mode  …</li>
-<li>kernel: video: mdss: LiveDisplay driver</li>
 </ul>
 
 <h2>Changelog builds after 02/19/2018:</h2>
