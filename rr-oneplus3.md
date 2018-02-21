@@ -1,5 +1,30 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 02/21/2018:</h2>
+<ul>
+<li>device: Fix camera hal</li>
+<li>kernel: Fix defconfig for LuisKERNEL</li>
+<li>kernel: boeffla_wl_blocker: update to wakelock blocker driver v1.1.0</li>
+<li>kernel: synaptics_s3320: Fix touchscreen after resume when gesture disabled</li>
+<li>kernel: msm: mdss: KCAL: disable igc update</li>
+<li>kernel: msm: mdss: KCAL: Send a pp display commit when changes are made  …</li>
+<li>kernel: mdss mdp: kcal for mdss_mdp_v1_7</li>
+<li>kernel: leds-qpnp: Notification LED control - V1.1b</li>
+<li>kernel: cpuidle: don't disable cpuidle when entering suspend  …</li>
+<li>kernel: block: Make CFQ default to IOPS mode on SSDs  …</li>
+<li>kernel: zen-iosched: change fifo_batch to 16</li>
+<li>kernel: adrenoboost: disable by default</li>
+<li>kernel: adrenoboost: finetuning algorithm - scale it a bit down  …</li>
+<li>kernel: msm_adreno_tz: add adrenoboost parameter  …</li>
+<li>kernel: block: add zen scheduler  …</li>
+<li>kernel: mdss_fb: add backlight dimmer option</li>
+<li>kernel: platform/msm: haptic: expose vibrate function</li>
+<li>kernel: PM: devfreq: Use high priority workqueue  …</li>
+<li>kernel: AIO: Don't plug the I/O queue in do_io_submit()  …</li>
+<li>kernel: Add SIO and FIOPS i/o schedulers</li>
+  <li>kernel: Added fsync on/off support.  …</li>
+</ul>
+
 <h2>Changelog builds after 02/18/2018:</h2>
 <ul>
 <li>kernel: defconfig: Set westwood as default TCP congestion handler</li>
