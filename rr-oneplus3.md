@@ -22,7 +22,9 @@
 <li>kernel: PM: devfreq: Use high priority workqueue  …</li>
 <li>kernel: AIO: Don't plug the I/O queue in do_io_submit()  …</li>
 <li>kernel: Add SIO and FIOPS i/o schedulers</li>
-  <li>kernel: Added fsync on/off support.  …</li>
+<li>kernel: Added fsync on/off support.  …</li>
+<li>op3: Add missing OMX blobs</li>
+<li>op3: Update blobs from OB32/OB22 </li> 
 </ul>
 
 <h2>Changelog builds after 02/18/2018:</h2>
