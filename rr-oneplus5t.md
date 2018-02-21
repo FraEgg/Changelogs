@@ -1,5 +1,12 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds and kernel release after 02/21/2019:</h2>
+<ul>
+  <li>msm8998: use OP aptx and ldac blobs  …</li>
+  <li>msm8998: define second back camera as back and back_aux  …</li>
+  <li>msm8998: add missing vstab configs  …</li>
+</ul>
+  
 <h2>Changelog builds and kernel release after 02/19/2019:</h2>
 <ul>
 <li>kernel: boeffla_wl_blocker: update to wakelock blocker driver v1.1.0  …</li>
