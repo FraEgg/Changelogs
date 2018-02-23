@@ -2,6 +2,14 @@
 <p></p>
 <h2>Changelog builds after 02/21/2018:</h2>
 <ul>
+  <li>Add simple thermal driver @sultanxda</li>
+  <li>Add touch boost @sultanxda</li>
+  <li>Change kernel base from rr-devices to @flar2 elementalx</li>
+  <li>Change device base from rr-devices to LineageOS</li>
+</li>
+
+<h2>Changelog builds after 02/21/2018:</h2>
+<ul>
 <li>device: Fix camera hal</li>
 <li>kernel: Fix defconfig for LuisKERNEL</li>
 <li>kernel: boeffla_wl_blocker: update to wakelock blocker driver v1.1.0</li>
