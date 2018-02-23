@@ -1,5 +1,13 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 02/23/2018:</h2>
+<ul>
+  <li>Add simple thermal driver @sultanxda</li>
+  <li>Add touch boost @sultanxda</li>
+  <li>Change kernel base from rr-devices to @flar2 elementalx</li>
+  <li>Change device base from rr-devices to LineageOS</li>
+</ul>
+
 <h2>Changelog builds and kernel release after 02/21/2019:</h2>
 <ul>
   <li>msm8998: use OP aptx and ldac blobs  …</li>
