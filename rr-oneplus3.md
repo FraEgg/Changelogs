@@ -1,6 +1,6 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
-<h2>Changelog builds after 02/21/2018:</h2>
+<h2>Changelog builds after 02/23/2018:</h2>
 <ul>
   <li>Add simple thermal driver @sultanxda</li>
   <li>Add touch boost @sultanxda</li>
