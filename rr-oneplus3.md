@@ -6,7 +6,7 @@
   <li>Add touch boost @sultanxda</li>
   <li>Change kernel base from rr-devices to @flar2 elementalx</li>
   <li>Change device base from rr-devices to LineageOS</li>
-</li>
+</ul>
 
 <h2>Changelog builds after 02/21/2018:</h2>
 <ul>
