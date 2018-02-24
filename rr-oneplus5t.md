@@ -6,6 +6,26 @@
   <li>Add touch boost @sultanxda</li>
   <li>Change kernel base from rr-devices to @flar2 elementalx</li>
   <li>Change device base from rr-devices to LineageOS</li>
+  <li>Kernel Features:<br>
+- Optimized for performance and battery life<br>
+- Overclock/underclock CPU<br>
+- Advanced color control<br>
+- Sound control driver from flar2 (elementalx) (You can use the https://play.google.com/store/apps/details?id=com.grarak.kerneladiutor (Kernel Auditor app) or the https://play.google.com/store/apps/details?id=flar2.exkernelmanager (EX Kernel Manager app / recommend) to control the speaker, headphone and mic gain. )<br>
+- Notification light control<br>
+- Sweep2sleep<br>
+- Backlight dimmer option<br>
+- Wake Gestures (Sweep2Wake and DoubleTap2Wake)<br>
+- Boeffla Wakelock blocker driver V1.1.0 from andip71<br>
+- Simple thermal driver from sultanxda<br>
+- LED Notification LED control - V1.1c<br>
+- sRGB and DCI-P3 color profile <br>
+- NTFS r/w support<br>
+- Option to disable fsync<br>
+- Adjust or disable vibration<br>
+- Dash charge<br>
+- WireGuard support, a next generation secure VPN tunnel https://forum.xda-developers.com/android/development/wireguard-rom-integration-t3711635<br>
+- Does not force encryption<br>
+- Many other misc. improvements not listed here<br>
 </ul>
 
 <h2>Changelog builds and kernel release after 02/21/2019:</h2>
