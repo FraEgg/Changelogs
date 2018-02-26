@@ -4,6 +4,8 @@
 <ul>
   <li>vendor: Add front gcam portrait fix from Defcomg (SavitarZA)</li>
   <li>device: AoD: Enable burn-in protection</li>
+  <li>frameworks: NightDisplayController: report unvailable if livedisplay feature is p…</li>
+  <li>frameworks:Show 3G data icon for TD-SCDMA network type  …</li>
 </ul>
 
 <h2>Changelog builds after 02/23/2018:</h2>
