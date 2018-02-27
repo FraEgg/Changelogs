@@ -2,8 +2,9 @@
 <p></p>
 <h2>Changelog builds after 02/27/2018:</h2>
 <ul>
+  <li>Add OnePlus 3/3T Front Camera Fix by defcomg</li>
   <li>Update OneplusCamera 2.5.20 & OneplusGallery 2.0.37</li>
-  <li>Update GoogleCamera to GoogleCamera-Pixel2Mod-Arnova8G2-V6</li>
+  <li>Update GoogleCamera to Google Camera Mod 5.1.018 v3.0 Full Auto by SKULSHADY</li>
 </ul>
 
 <h2>Changelog builds after 02/25/2018:</h2>
