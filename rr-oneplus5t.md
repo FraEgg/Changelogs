@@ -1,5 +1,10 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 02/27/2018:</h2>
+<ul>
+<li>Update GoogleCamera to Google Camera Mod 5.1.018 v3.0 Full Auto by SKULSHADY</li>
+</ul>
+
 <h2>Changelog builds after 02/25/2018:</h2>
 <ul>
   <li>vendor: Add front gcam portrait fix from Defcomg (SavitarZA)</li>
