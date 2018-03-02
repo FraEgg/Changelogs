@@ -3,7 +3,7 @@
 <h2>Changelog builds after 03/02/2018:</h2>
 <ul>
   <li>device: Update ramdisk changes</li>
-  <li>santoni:Enable Night Light</li>  
+  <li>device: Enable Night Light</li>  
 <li>Merge android-linux-stable/msm-3.18/kernel.lnx.3.18.r33-rel: (257 commits)<br>
   Revert "USB: f_fs: Use HS and SS descriptors without checking gadget speed"<br>
   Linux 3.18.97<br>
