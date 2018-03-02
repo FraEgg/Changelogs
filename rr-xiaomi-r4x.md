@@ -1,5 +1,31 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/02/2018:</h2>
+<ul>
+<li>merge android-linux-stable/msm-3.18/kernel.lnx.3.18.r33-rel: (257 commits)<br>
+  Revert "USB: f_fs: Use HS and SS descriptors without checking gadget speed"<br>
+  Linux 3.18.97<br>
+  ASN.1: fix out-of-bounds read when parsing indefinite length item<br>
+  usb: gadget: f_fs: Process all descriptors during bind<br>
+  usb: dwc3: gadget: Set maxpacket size for ep0 IN<br>
+  arm64: Disable unhandled signal log messages by default<br>
+  irqchip/gic-v3: Use wmb() instead of smb_wmb() in gic_raise_softirq()<br>
+  x86/oprofile: Fix bogus GCC-8 warning in nmi_setup()<br>
+  iio: adis_lib: Initialize trigger before requesting interrupt<br>
+  iio: buffer: check if a buffer has been set up when poll is called<br>
+  cfg80211: fix cfg80211_beacon_dup<br>
+  scsi: ibmvfc: fix misdefined reserved field in ibmvfc_fcp_rsp_info<br>
+  PCI: keystone: Fix interrupt-controller-node lookup<br>
+  netfilter: drop outermost socket lock in getsockopt()<br>
+  Linux 3.18.96<br>
+  crypto: s5p-sss - Fix kernel Oops in AES-ECB mode<br>
+  KVM: async_pf: Fix #DF due to inject "Page not Present" and "Page Ready" exceptions simultaneously<br>
+  hippi: Fix a Fix a possible sleep-in-atomic bug in rr_close<br>
+  xen: XEN_ACPI_PROCESSOR is Dom0-only<br>
+  x86/mm/kmmio: Fix mmiotrace for page unaligned addresses<br>
+  ...<br></li>
+</ul>
+
 <h2>Changelog builds after 02/14/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-02-05</li>
