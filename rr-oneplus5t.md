@@ -1,5 +1,20 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/03/2018:</h2>
+<ul>
+  <li>common: msm8998-common: Increase media volume steps 15 -> 25  …</li>
+<li>common: msm8998: audio: fix acdb id of handset mic  …</li>
+<li>common: msm8998: audio: fix acdb id of handset stereo mic  …</li>
+<li>common: msm8998: audio: fix acdb id for handset  …</li>
+<li>common: msm8998: DPM : Add radio group rules to dpmQmiMgr  …</li>
+<li>common: msm8998: init: performance: set up boot time fs tuning  …</li>
+<li>common: msm8998: init: performance: disable UFS powersaving while booting up  …</li>
+<li>common: msm8998: init: performance: enable powersaving when in charger mode  …</li>
+<li>common: msm8998: init: move charger perf config to init.target.performance.rc  …</li>
+<li>common: msm8998: ueventd: set permissions for FRP config partition  …  </li>
+<li>common: msm8998: commonize dalvik and hwui prop overrides  …</li>
+</ul>
+
 <h2>Changelog builds after 02/27/2018:</h2>
 <ul>
 <li>Update GoogleCamera to Google Camera Mod 5.1.018 v3.0 Full Auto by SKULSHADY</li>
