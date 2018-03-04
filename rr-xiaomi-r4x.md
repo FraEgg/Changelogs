@@ -1,5 +1,13 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/05/2018:</h2>
+<ul>
+  <li>Add msm8x16-wcd: Sound control @flar2</li>
+  <li>Add wakelock blocker driver v1.1.0</li>
+  <li>Add ElementalX governor</li>
+  <li>Add Alucard governor</li>
+</ul>
+
 <h2>Changelog builds after 03/04/2018:</h2>
 <ul>
   <li>Bring up RR Oreo LuisROM for Xiaomi Redmi 4x (beta)</li>
