@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
+  <li>Add wireguard vpn support</li>
   <li>Add msm8x16-wcd: Sound control @flar2</li>
   <li>Add wakelock blocker driver v1.1.0</li>
   <li>Add ElementalX governor</li>
