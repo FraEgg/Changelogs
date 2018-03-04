@@ -1,5 +1,32 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/04/2018:</h2>
+<ul>
+  <li>Merge branch 'upstream-fk-8.x-unified' into oreo-luis</li>
+  </li>upstream-fk-8.x-unified: (47 commits)<br>
+  ANDROID: keychord: Check for write data size<br>
+  Linux 4.4.120<br>
+  MIPS: Implement multi3 for GCC7 MIPS64r6 builds<br>
+  net: gianfar_ptp: move set_fipers() to spinlock protecting area<br>
+  sctp: make use of pre-calculated len<br>
+  xen/gntdev: Fix partial gntdev_mmap() cleanup<br>
+  xen/gntdev: Fix off-by-one error when unmapping with holes<br>
+  SolutionEngine771x: fix Ether platform data<br>
+  mdio-sun4i: Fix a memory leak<br>
+  xen-netfront: enable device after manual module load<br>
+  bnxt_en: Fix the 'Invalid VF' id check in bnxt_vf_ndo_prep routine.<br>
+  can: flex_can: Correct the checking for frame length in flexcan_start_xmit()<br>
+  mac80211: mesh: drop frames appearing to be from us<br>
+  drm/ttm: check the return value of kzalloc<br>
+  e1000: fix disabling already-disabled warning<br>
+  xfs: quota: check result of register_shrinker()<br>
+  xfs: quota: fix missed destroy of qi_tree_lock<br>
+  IB/ipoib: Fix race condition in neigh creation<br>
+  IB/mlx4: Fix mlx4_ib_alloc_mr error flow<br>
+  s390/dasd: fix wrongly assigned configuration data<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 03/03/2018:</h2>
 <ul>
   <li>common: msm8998-common: Increase media volume steps 15 -> 25  …</li>
