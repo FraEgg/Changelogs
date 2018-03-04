@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/04/2018:</h2>
 <ul>
-  <li>Merge branch 'upstream-fk-8.x-unified' into oreo-luis</li>
+  <li>Merge kernel branch 'upstream-fk-8.x-unified' into oreo-luis</li>
   </li>upstream-fk-8.x-unified: (47 commits)<br>
   ANDROID: keychord: Check for write data size<br>
   Linux 4.4.120<br>
