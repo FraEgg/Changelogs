@@ -2,9 +2,20 @@
 <p></p>
 <h2>Changelog builds after 03/04/2018:</h2>
 <ul>
-  <li>Merge remote-tracking branch 'Sultanxda/cm-14.1-sultan' into cm-14.1-…</li>
-  <li>ulp proxy set capabilities race condition  …</li>
-  <li>Revert "oneplus3: Don't use Snapdragon LLVM"  …</li>
+  <li>kernel: Merge remote-tracking branch 'Sultanxda/cm-14.1-sultan"</li>
+  <li>kernel: power: bq27541: Don't load saved soc on boot</li>
+  <li>kernel: input: synaptics: s3320: Restore nonsensical tp_baseline_get() code</li>
+  <li>kernel: power: bq27541: Remove suspend/resume routines</li>
+  <li>kernel: i2c-msm-v2: Ensure system is always active for i2c transfers</li>
+  <li>kernel: misc: fpc1020: Use device struct as wakeup source</li>
+  <li>kernel: Revert "i2c-msm-v2: Ensure i2c bus is always active for transfers"</li>
+  <li>kernel: cpu_stress_test: Disable preemption while looping intensive instructions</li>
+  <li>kernel: cpu_stress_test: Add back an increased start delay of 15 seconds</li>
+  <li>kernel: cpu_stress_test: Add specialized assembly for stressing arm64</li>
+  <li>kernel: cpu_stress_test: Ensure all available CPUs are tested thoroughly</li>
+  <li>device: Merge remote-tracking branch 'Sultanxda/cm-14.1-sultan' into cm-14.1-…</li>
+  <li>device: ulp proxy set capabilities race condition  …</li>
+  <li>device: Revert "oneplus3: Don't use Snapdragon LLVM"  …</li>
 </ul>
 
 <h2>Changelog builds after 02/14/2018:</h2>
