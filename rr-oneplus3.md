@@ -1,5 +1,12 @@
 <h1>Changelog RR Nougat LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/04/2018:</h2>
+<ul>
+  <li>Merge remote-tracking branch 'Sultanxda/cm-14.1-sultan' into cm-14.1-…</li>
+  <li>ulp proxy set capabilities race condition  …</li>
+  <li>Revert "oneplus3: Don't use Snapdragon LLVM"  …</li>
+</ul>
+
 <h2>Changelog builds after 02/14/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-02-05</li>
