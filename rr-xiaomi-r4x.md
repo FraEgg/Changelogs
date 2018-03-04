@@ -6,6 +6,9 @@
   <li>Add wakelock blocker driver v1.1.0</li>
   <li>Add ElementalX governor</li>
   <li>Add Alucard governor</li>
+  <li>Add Miui Camera</li>
+  <li>Add OneplusGallery</li>
+  <li>Add GCam</li>
 </ul>
 
 <h2>Changelog builds after 03/04/2018:</h2>
