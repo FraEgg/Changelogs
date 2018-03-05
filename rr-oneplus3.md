@@ -2,12 +2,11 @@
 <p></p>
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
-<li>LineageOS/lineage-15.1:<br>
-  op3: Re-enable variable button brightness<br>
-  op3: Use api v2 for Snap<br>
-  Revert "msm8996: Remove the default perf mode configuration"<br>
-  op3: Disable debug.sf.recomputecrop<br>
-  op3: Use exfat-nofuse</li>
+  <li>op3: Re-enable variable button brightness</li>
+  <li>op3: Use api v2 for Snap</li>
+  <li>Revert "msm8996: Remove the default perf mode configuration"</li>
+  <li>op3: Disable debug.sf.recomputecrop</li>
+  <li>op3: Use exfat-nofuse</li>
 </ul>
 
 <h2>Changelog builds after 03/04/2018:</h2>
