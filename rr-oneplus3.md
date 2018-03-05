@@ -1,5 +1,14 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/05/2018:</h2>
+<ul>
+  <li>op3: Re-enable variable button brightness</li>
+  <li>op3: Use api v2 for Snap</li>
+  <li>Revert "msm8996: Remove the default perf mode configuration"</li>
+  <li>op3: Disable debug.sf.recomputecrop</li>
+  <li>op3: Use exfat-nofuse</li>
+</ul>
+
 <h2>Changelog builds after 02/27/2018:</h2>
 <ul>
   <li>Add OnePlus 3/3T Front Camera Fix by defcomg</li>
