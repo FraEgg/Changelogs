@@ -1,5 +1,10 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/06/2018:</h2>
+<ul>
+  <li>hal: switch audio_extn_set_parameters and amplifier_set_parameters</li>
+</ul>
+
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
   <li>Add wireguard vpn support</li>
