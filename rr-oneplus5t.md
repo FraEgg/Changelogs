@@ -2,9 +2,8 @@
 <p></p>
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
-<li>upstream-los-15.1:<br>
-msm8998: add audio_amplifier for setting ANC parameter<br>
-Revert "msm8998: audio: Convert audio_effect.conf to audio_effects.xml"</li>
+  <li>msm8998: add audio_amplifier for setting ANC parameter</li>
+  <li>Revert "msm8998: audio: Convert audio_effect.conf to audio_effects.xml"</li>
 </ul>
 
 <h2>Changelog builds after 03/03/2018:</h2>
