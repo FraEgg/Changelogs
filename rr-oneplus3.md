@@ -1,5 +1,30 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+
+<h2>Changelog builds after 03/07/2018:</h2>
+<ul>
+  <li>kernel: sched: avoid migrating when softint on tgt cpu should be short</li>
+  <li>kernel: sched: avoid scheduling RT threads on cores currently handling softirqs</li>
+  <li>kernel: sched/rt: Avoid moving rt task if destination CPU does not run low priority task.</li>
+  <li>kernel: perf:arm64: fix lockdep warning when handling CPU_STARTING.</li>
+  <li>kernel: perf:arm64: fix pmu percpu irq handling at hotplug.</li>
+  <li>kernel: perf: arm64: fix RCU usage on pmu resume from low-power</li>
+  <li>kernel: perf: arm64: implement CPU_PM notifier</li>
+  <li>kernel: Revert "Perf: arm64: support hotplug and power collapse"</li>
+  <li>kernel: Revert "Perf: arm64: fix disable of pmu irq during hotplug"</li>
+  <li>kernel: Revert "Perf: arm64: restore registers after reset"</li>
+  <li>kernel: Revert "Perf: arm64: stop counters when going into hotplug"</li>
+  <li>kernel: ion: adjust system heap pool orders</li>
+  <li>kernel: Silences WLAN, PCIe, and CPU suspend state kernel messages</li>
+  <li>kernel: cpuidle: don't disable cpuidle when entering suspend</li>
+  <li>kernel: ARM64: Fix merge derp</li>
+  <li>kernel: Revert "scripts: gcc-wrapper: Use wrapper to check compiler warnings"</li>
+  <li>kernel: ANDROID: cpufreq: stats: add uid removal for uid_time_in_state</li>
+  <li>kernel: ANDROID: cpufreq_stat: add per task/uid/freq stats</li>
+  <li>kernel: ANDROID: Fix cpufreq stats table creation</li>
+  <li>...</li>
+</ul>
+
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
   <li>op3: Re-enable variable button brightness</li>
