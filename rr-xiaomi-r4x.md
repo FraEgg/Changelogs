@@ -3,6 +3,7 @@
 <h2>Changelog builds after 03/08/2018:</h2>
 <ul>
   <li>Add Incall Volume fix + Crystal clear audio recording mod v3.0</li>
+  <li>Bring up OTA Updater for this device</li>
 </ul>
 
 <h2>Changelog builds after 03/06/2018:</h2>
