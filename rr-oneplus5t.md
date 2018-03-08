@@ -1,5 +1,10 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/08/2018:</h2>
+<ul>
+  <li>Bring up OTA Updater for this device</li>
+</ul>
+
 <h2>Changelog builds after 03/04/2018:</h2>
 <ul>
   <li>Merge kernel branch 'upstream-fk-8.x-unified' into oreo-luis</li>
