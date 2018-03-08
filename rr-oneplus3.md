@@ -1,5 +1,9 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/08/2018:</h2>
+<ul>
+  <li>Bring up OTA Updater for this device</li>
+</ul>
 
 <h2>Changelog builds after 03/07/2018:</h2>
 <ul>
