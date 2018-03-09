@@ -1,5 +1,11 @@
 <h1>Changelog for unofficial RR-Nougat LuisROM Builds for the Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/09/2018:</h2>
+<ul>
+  <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
+  <li>Update media_profiles.xml (HEVC+SloMo GCam on OP3(T)/5)</li>
+</ul>
+
 <h2>Changelog builds after 03/05/2018:</h2>
 <ul>
   <li>msm8998: add audio_amplifier for setting ANC parameter</li>
