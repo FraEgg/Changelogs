@@ -1,5 +1,11 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/09/2018:</h2>
+<ul>
+  <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
+  <li>Update media_profiles.xml (HEVC+SloMo GCam on OP3(T)/5)</li>
+</ul>
+
 <h2>Changelog builds after 03/08/2018:</h2>
 <ul>
   <li>Bring up OTA Updater for this device</li>
