@@ -1,5 +1,28 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 03/10/2018:</h2>
+<ul>
+  <li>kernel: complete rebase the linux kernel 3.4.113 (based on the exynos5420 team)</li>
+  <li><b>LuisKERNEL:</b><br>
+    kernel: Adds for LuisKERNEL on defconfig<br>
+    kernel: drivers:lmk: Fix null pointer issue  …<br>
+    kernel: drivers:lmk: Fix double delete issue  …<br>
+    kernel: drivers:lmk: implement task's adj rbtree  …<br>
+    kernel: cpufreq: fallback to interactive if governor is not found  …<br>
+    kernel: sched/fair: Optimize find_idlest_cpu() when there is no choice  …<br>
+    kernel: PM / Wakeup: Use rcu callbacks for better performance  …<br>
+    kernel: PM / wakeup: Adjust messaging for wake events during suspend  …<br>
+    kernel: gpu: mali: set stock default max/min freqs and tune step thresholds<br>
+    kernel: cpufreq: reduce max A15 cluster frequency to 2000 MHz  …<br>
+    kernel: usb: gadget: check for accessory device before disconnecting HIDs  …<br>
+    kernel: CHROMIUM: cpufreq: interactive: calculate load before freq change  …<br>
+    kernel: mm: Optimized SLUB memory allocator<br>
+    kernel: kernel/sched/fair: reduce latency  …<br>
+    kernel: block: disable I/O stats  …<br>
+    kernel: mmc: disable CRC check for better performance  …</li>
+  <li>device: complete rebase of the device tree (based on the exynos5420 team)</li>  
+</ul>
+
 <h2>Changelog builds after 02/14/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-02-05</li>
