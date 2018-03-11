@@ -1,5 +1,23 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 03/11/2018:</h2>
+<ul>
+<li>kernel: Add Powersuspend</li>
+<li>kernel: powersuspend: disable debugging by default  …</li>
+<li>kernel: powersuspend: add debug sysfs trigger to see how driver work  …</li>
+<li>kernel: powersuspend: Replaced deprecated singlethread workqueue with updated… </li>
+<li>kernel: powersuspend: add power_suspended boolean for global access  …</li>
+<li>kernel: kernel/power/powersuspend: add display panel hooks for powersuspend  …</li>
+<li>kernel: kernel/power/powersuspend: new PM kernel driver for Android w/o early… </li>
+<li>kernel: kernel/power/powersuspend: v1.6.1 add autosleep & hybrid modes  …</li>
+<li>kernel: kernel/power/powersuspend: new PM kernel driver for Android w/o early…  …</li>
+<li>kernel: switch: arizona: Use power efficient workqueue  …</li>
+<li>kernel: timekeeping: Move clock sync work to power efficient workqueue  …</li>
+<li>kernel: usb: move hub init and LED blink work to power efficient workqueue  …</li>
+<li>kernel: net: rfkill: move poll work to power efficient workqueue  …</li>
+<li>kernel: net: wireless: move regulatory timeout work to power efficient workqueue  …</li>
+</ul>
+
 <h2>Changelog builds after 03/10/2018:</h2>
 <ul>
   <li>kernel: complete rebase the linux kernel 3.4.113 (based on the exynos5420 team)</li>
