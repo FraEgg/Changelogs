@@ -1,5 +1,13 @@
 <h1>Changelog for unofficial RR-Nougat LuisROM Builds for the Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/11/2018:</h2>
+<ul>
+<li>kernel: Merge branch 'upstream-cm-14.1-sultan' into cm-14.1-luis  …</li>
+<li>kernel: misc: goodix: Offload fb notifier onto worker  … </li>
+<li>kernel: power: smb-lib: Remove unnecessary fb notifier  …</li>
+<li>kernel: power: smb-lib: Fix charging issues due to incorrect intake voltage</li>
+</ul>
+
 <h2>Changelog builds after 03/09/2018:</h2>
 <ul>
   <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
