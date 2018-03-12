@@ -3,6 +3,7 @@
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
   <li>device: dumpling: Prefer CPUs 0-1 and 4-5</li>
+  <li>kernel: wakeup: Create fake debugfs folder solely for wakeup_sources</li>
 </ul>
 
 <h2>Changelog builds after 03/11/2018:</h2>
