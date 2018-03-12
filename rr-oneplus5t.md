@@ -2,6 +2,11 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
+<li>msm8998: sync WCNSS_qcom_cfg.ini with caf  …</li>
+<li>msm8998-common: Add blobs needed for widevine L1 support  …</li>
+<li>msm8998: camera: add com.android.camera and snap to aux.packagelist  …</li>
+<li>msm8998: nfc: move to configs  …</li>
+<li>msm8998: unpin camera config  …</li>  
   <li>kernel: upstream-fk-8.x-unified: (38 commits)<br>
   Linux 4.4.121<br>
   btrfs: preserve i_mode if __btrfs_set_acl() fails<br>
