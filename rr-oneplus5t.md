@@ -1,5 +1,10 @@
 <h1>Changelog for unofficial RR-Nougat LuisROM Builds for the Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+  <li>device: dumpling: Prefer CPUs 0-1 and 4-5</li>
+</ul>
+
 <h2>Changelog builds after 03/11/2018:</h2>
 <ul>
 <li>kernel: Merge branch 'upstream-cm-14.1-sultan' into cm-14.1-luis  …</li>
