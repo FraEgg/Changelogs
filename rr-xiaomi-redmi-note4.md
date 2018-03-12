@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+  <li>Add MIUI 7.12.28 Camera blobs</li>
+</ul>
+
 <h2>Changelog builds after 03/02/2018:</h2>
 <ul>
   <li>kernel: Change kernelbase from francokernel</li>
