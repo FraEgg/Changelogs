@@ -1,5 +1,11 @@
 <h1>Changelog RR Nougat LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+  <li>Revert "msm: mdss: Always set non-zero brightness on unblank"</li>
+  <li>wakeup: Create fake debugfs folder solely for wakeup_sources
+</ul>
+
 <h2>Changelog builds after 03/09/2018:</h2>
 <ul>
   <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
