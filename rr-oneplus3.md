@@ -2,8 +2,8 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
-  <li>Revert "msm: mdss: Always set non-zero brightness on unblank"</li>
-  <li>wakeup: Create fake debugfs folder solely for wakeup_sources
+  <li>kernel: Revert "msm: mdss: Always set non-zero brightness on unblank"</li>
+  <li>wakeup: Create fake debugfs folder solely for wakeup_sources</li>
 </ul>
 
 <h2>Changelog builds after 03/09/2018:</h2>
