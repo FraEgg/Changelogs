@@ -1,5 +1,33 @@
 <h1>Changelog RR-Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+  <li>Merge branch 'upstream-oreo-ex4.00' into oreo-luis<br>
+* upstream-oreo-ex4.00: (114 commits)<br>
+  update defconfig<br>
+  Revert "op3: Enable partial update mode for Samsung display"<br>
+  msm: camera: isp: Use boot clock for recording start time<br>
+  power: qpnp-smbcharger: Report charger types in REAL_TYPE property<br>
+  power_supply: Add REAL_TYPE power_supply_property<br>
+  arm64: Add BTAC/LinkStack sanitizations for Kryo<br>
+  arm64: Implement branch predictor hardening for Falkor<br>
+  arm64: cpu_errata: Add Kryo to Falkor 1003 errata<br>
+  arm64: Implement branch predictor hardening for affected Cortex-A CPUs<br>
+  drivers/firmware: Expose psci_get_version through psci_ops structure<br>
+  arm64: Add skeleton to harden the branch predictor against aliasing attacks<br>
+  arm64: cpu_errata: Allow an erratum to be match for all revisions of a core<br>
+  arm64: cpufeature: Pass capability structure to ->enable callback<br>
+  arm64: errata: Calling enable functions for CPU errata too<br>
+  drivers: soc: Synchronize apr callback and voice svc release<br>
+  msm: ipa: rndis: Fine tune threshold for rndis/ecm<br>
+  dev_freq: devfreq_spdm: add null terminator to prevent OOB access<br>
+  ARM: dts: msm: add internal pull up for I2C1 on MDM9650 TTP<br>
+  msm: ais: sensor: Fix out of bound read for region params<br>
+  msm: sensor: actuator: fix out of bound read for region params<br>
+    ...  </li>
+  <li>device: change device tree from rr-devices</li>
+</ul>
+
 <h2>Changelog builds after 03/09/2018:</h2>
 <ul>
   <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
