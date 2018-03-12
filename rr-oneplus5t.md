@@ -1,5 +1,31 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+  <li>* upstream-fk-8.x-unified: (38 commits)<br>
+  Linux 4.4.121<br>
+  btrfs: preserve i_mode if __btrfs_set_acl() fails<br>
+  bpf, x64: implement retpoline for tail call<br>
+  dm io: fix duplicate bio completion due to missing ref count<br>
+  mpls, nospec: Sanitize array index in mpls_label_ok()<br>
+  net: mpls: Pull common label check into helper<br>
+  sctp: verify size of a new chunk in _sctp_make_chunk()<br>
+  s390/qeth: fix IPA command submission race<br>
+  s390/qeth: fix SETIP command handling<br>
+  sctp: fix dst refcnt leak in sctp_v6_get_dst()<br>
+  sctp: fix dst refcnt leak in sctp_v4_get_dst<br>
+  udplite: fix partial checksum initialization<br>
+  ppp: prevent unregistered channels from connecting to PPP units<br>
+  netlink: ensure to loop over all netns in genlmsg_multicast_allns()<br>
+  net: ipv4: don't allow setting net.ipv4.route.min_pmtu below 68<br>
+  net: fix race on decreasing number of TX queues<br>
+  ipv6 sit: work around bogus gcc-8 -Wrestrict warning<br>
+  hdlc_ppp: carrier detect ok, don't turn off negotiation<br>
+  fib_semantics: Don't match route with mismatching tclassid<br>
+  bridge: check brport attr show in brport_show<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 03/09/2018:</h2>
 <ul>
   <li>Update GCam to GoogleCamera-Pixel2Mod-Arnova8G2-V7beta-test</li>
