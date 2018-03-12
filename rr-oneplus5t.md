@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
-  <li>* upstream-fk-8.x-unified: (38 commits)<br>
+  <li>kernel: upstream-fk-8.x-unified: (38 commits)<br>
   Linux 4.4.121<br>
   btrfs: preserve i_mode if __btrfs_set_acl() fails<br>
   bpf, x64: implement retpoline for tail call<br>
