@@ -1,5 +1,18 @@
 <h1>Changelog RR Luis-Builds Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+<li>Some update from LOS-14.1 framework sources:<br>
+- Update tint of resource icons of third party QS tiles<br>
+- SystemUI: Fix LiveDisplay tile off color  …<br>
+- livedisplay: Allow tile creation before boot completed phase [2/2]  …<br>
+- mtp: fix double free of thumbnail data  …<br>
+- Throw OOME if Bitmap.nativeCreate fails  … <br>
+- Adjust Uri host parsing to use last instead of first @.  …<br>
+</li>
+</ul>
+
 <h2>Changelog builds after 03/11/2018:</h2>
 <ul>
 <li>kernel: Add Powersuspend</li>
