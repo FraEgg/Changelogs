@@ -2,6 +2,18 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
+<li>Some update from LOS-14.1 framework sources:<br>
+- Update tint of resource icons of third party QS tiles<br>
+- SystemUI: Fix LiveDisplay tile off color  …<br>
+- livedisplay: Allow tile creation before boot completed phase [2/2]  …<br>
+- mtp: fix double free of thumbnail data  …<br>
+- Throw OOME if Bitmap.nativeCreate fails  … <br>
+- Adjust Uri host parsing to use last instead of first @.  …<br>
+</li>
+</ul>
+
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
   <li>Add MIUI 7.12.28 Camera blobs</li>
 </ul>
 
