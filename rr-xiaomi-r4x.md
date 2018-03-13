@@ -1,5 +1,17 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
+<li>Some update from LOS-14.1 framework sources:<br>
+- Update tint of resource icons of third party QS tiles<br>
+- SystemUI: Fix LiveDisplay tile off color  …<br>
+- livedisplay: Allow tile creation before boot completed phase [2/2]  …<br>
+- mtp: fix double free of thumbnail data  …<br>
+- Throw OOME if Bitmap.nativeCreate fails  … <br>
+- Adjust Uri host parsing to use last instead of first @.  …<br>
+</li>
+</ul>
+
 <h2>Changelog builds after 03/13/2018:</h2>
 <ul>
   <li>Switch the kernelbase from Clarity Kernel <a href="https://forum.xda-developers.com/xiaomi-redmi-4x/development/kernel-clarity-t3719341" target="_blank">@xda</a><br>
