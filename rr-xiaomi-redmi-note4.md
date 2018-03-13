@@ -2,6 +2,11 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
+  <li>Change GCam to URIKILL FinalMOD V3</li>
+</ul>
+
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
   <li>Add MIUI 7.12.28 Camera blobs</li>
 </ul>
 
