@@ -2,7 +2,8 @@
 <p></p>
 <h2>Changelog builds after 03/13/2018:</h2>
 <ul>
-  <li>Switch the kernelbase from Clarity Kernel <a href="https://forum.xda-developers.com/xiaomi-redmi-4x/development/kernel-clarity-t3719341" target="_blank">@xda</a><br>
+<li>Change GCam to URIKILL FinalMOD V3</li>
+<li>Switch the kernelbase from Clarity Kernel <a href="https://forum.xda-developers.com/xiaomi-redmi-4x/development/kernel-clarity-t3719341" target="_blank">@xda</a><br>
 - Using Official XIAOMI Patch.<br>
 - Support MIUI/AOSP (Nougat/Oreo)<br>
 - Based on Android Linux Stable<br>
