@@ -2,6 +2,19 @@
 <p></p>
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
+<li>Fixing kernel issues:<br>
+  - ARM64: configs: santoni: update v2.4 AOSP 7.1.x</br>
+  - Revert "kernel: cpu: don't unplug cpu 0."</br>
+  - Revert "core_ctl, msm_thermal: don't unplug cpu 0."</br>
+  - msm: thermal: Check temperature only if probed</br>
+  - fingerprint: fpc: remove board info check</br>
+  - Revert "clocksource: arch_timer: make virtual counter access configurable"</br>
+  - Revert "clocksource: arch_timer: Disable user access to the physical counter"</li>
+  </li>Download fixed kernel: http://luis-builds.de/downloads/lineageos/rr/Xiaomi_Redmi_4X_(santoni)/LuisKERNEL/</li>
+</ul>
+
+<h2>Changelog builds after 03/12/2018:</h2>
+<ul>
 <li>Change GCam to URIKILL FinalMOD V3</li>
 <li>Some update from LOS-14.1 framework sources:<br>
 - Update tint of resource icons of third party QS tiles<br>
