@@ -1,5 +1,11 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/14/2018:</h2>
+<ul>
+  <li>vendor: msm8998: update lobs from OP5 beta6 / OP5T beta4</li>
+  <li>msm8998: audio_tuning_mixer.txt is device specific</li>
+</ul>
+
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
 <li>msm8998: sync WCNSS_qcom_cfg.ini with caf  …</li>
