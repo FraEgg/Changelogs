@@ -1,4 +1,4 @@
-<h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
+<h1>Changelog RR Nougat LuisROM for Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
 <h2>Changelog builds after 03/15/2018:</h2>
 <ul>
