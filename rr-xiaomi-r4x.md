@@ -1,4 +1,4 @@
-<h1>Changelog RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
+<h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
 <h2>Changelog builds after 03/15/2018:</h2>
 <ul>
