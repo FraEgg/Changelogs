@@ -1,5 +1,10 @@
 <h1>Changelog RR Luis-Builds Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 03/15/2018:</h2>
+<ul>
+  <li>Bump security patch level to 2018-03-05</li>
+</ul>
+
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
 <li>Change GCam to URIKILL FinalMOD V3</li>
