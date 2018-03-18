@@ -1,5 +1,31 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/18/2018:</h2>
+<ul>
+  <li>kernel: upstream-oreo-ck: (82 commits)<br>
+  - ARM64: configs: santoni: update v2.5 AOSP 8.1.x<br>
+  - ARM: dts: add overclock CPU for msm8937/40<br>
+  - cpufreq: alucard, nightmare: interactive governor drops bits in time calculation<br>
+  - cpufreq: alucard, nightmare: use user policy for min/max responesive freq<br>
+  - zswap: remove double definition of zswap_zpool_ops<br>
+  - zram: unify error reporting<br>
+  - mm: zpool: constify the zpool_ops<br>
+  - zsmalloc: remove null check from destroy_handle_cache()<br>
+  - zsmalloc: do not take class lock in zs_shrinker_count()<br>
+  - zsmalloc: use class->pages_per_zspage<br>
+  - zsmalloc: consider ZS_ALMOST_FULL as migrate source<br>
+  - zsmalloc: partial page ordering within a fullness_list<br>
+  - zsmalloc: use shrinker to trigger auto-compaction<br>
+  - zsmalloc: account the number of compacted pages<br>
+  - zsmalloc/zram: introduce zs_pool_stats api<br>
+  - zram: fix pool name truncation<br>
+  - zram: check comp algorithm availability earlier<br>
+  - zram: cut trailing newline in algorithm name<br>
+  - zram: cosmetic zram_bvec_write() cleanup<br>
+  - zram: add dynamic device add/remove functionality<br>
+    ...  </li>
+</ul>
+
 <h2>Changelog builds after 03/13/2018:</h2>
 <ul>
 <li>Change GCam to URIKILL FinalMOD V3</li>
