@@ -1,5 +1,12 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/18/2018:</h2>
+<ul>
+  <li>kernel: msm: mdss: Silence "invalid data for dither" error</li>
+  <li>kernel: input: synaptics: s3320: Don't send input event timestamps to userspace</li>
+  <li>kernel: Revert "input: add new input event code to pass timestamp to userspace"</li>
+</ul>
+
 <h2>Changelog builds after 03/15/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-03-05</li>
