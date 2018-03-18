@@ -1,5 +1,31 @@
 <h1>Changelog for unofficial RR-Nougat LuisROM Builds for the Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/18/2018:</h2>
+<ul>
+<li>kernel: upstream-cm-14.1-sultan: (84 commits)<br>
+  qcacld-3.0: Load driver at device_initcall<br>
+  msm: mdss: Silence "invalid data for dither" error<br>
+  input: synaptics: s3320: Don't send input event timestamps to userspace<br>
+  Revert "input: add new input event code to pass timestamp to userspace"<br>
+  qcacld-3.0: Update to CAF LA.UM.5.8.r1-03300-8x98.0<br>
+  arm64: Move BP hardening to check_and_switch_context<br>
+  arm64: Add BTAC/LinkStack sanitizations for Kryo cores<br>
+  arm64: Implement branch predictor hardening for Falkor<br>
+  arch: arm64: Add midr values for kryo2xx big cores<br>
+  arm64: Implement branch predictor hardening for affected Cortex-A CPUs<br>
+  arm64: Define Cortex-A73 MIDR<br>
+  arm64: cputype: Add missing MIDR values for Cortex-A72 and Cortex-A75<br>
+  arm64: cpu_errata: Allow an erratum to be match for all revisions of a core<br>
+  arm64: Add skeleton to harden the branch predictor against aliasing attacks<br>
+  arm64: Move post_ttbr_update_workaround to C code<br>
+  drivers/firmware: Expose psci_get_version through psci_ops structure<br>
+  arm64: cpufeature: Pass capability structure to ->enable callback<br>
+  arm64: errata: Calling enable functions for CPU errata too<br>
+  mm-camera2:isp2: Handle use after free buffer<br>
+  msm: sensor: actuator: fix out of bound read for region params<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 03/15/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-03-05</li>
