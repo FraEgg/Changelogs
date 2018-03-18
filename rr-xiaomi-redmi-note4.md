@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/18/2018:</h2>
 <ul>
-  <li>qcom: audio: Make CVD version retrieval nonfatal with ACDB v1</li>
+  <li>qcom8996: audio: Make CVD version retrieval nonfatal with ACDB v1</li>
 </ul>
 
 <h2>Changelog builds after 03/13/2018:</h2>
