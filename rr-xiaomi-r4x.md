@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/18/2018:</h2>
 <ul>
+  <li>qcom8996: audio: Make CVD version retrieval nonfatal with ACDB v1</li>
   <li>kernel: upstream-oreo-ck: (82 commits)<br>
   - ARM64: configs: santoni: update v2.5 AOSP 8.1.x<br>
   - ARM: dts: add overclock CPU for msm8937/40<br>
