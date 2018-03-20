@@ -1,5 +1,32 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/20/2018:</h2>
+<ul>
+<li>Merge branch 'upstream-oreo-ex4.00' into oreo-luis<br>
+* upstream-oreo-ex4.00: (88 commits)<br>
+  update defconfig<br>
+  qcacld-2.0: Disable CONFIG_WLAN_THERMAL_SHUTDOWN<br>
+  msm: mdss: Silence invalid data for dither log spam<br>
+  clk: msm: clock-cpu-8996: Use CLKFLAG_NO_RATE_CACHE for perfcl_hf_mux<br>
+  qcom-cpufreq: Use CLKFLAG_NO_RATE_CACHE<br>
+  msm: msm_bus: Don't enable QoS clocks when none are present<br>
+  serial: msm_serial_hs: optimize total tty port support<br>
+  msm_serial_hs:  make the Bluetooth tty thread RT<br>
+  Make msm_serial_hs RT to improve bluetooth performance<br>
+  tty: add tty_port_set_policy function<br>
+  tty: move tty_port workqueue to be a kthread<br>
+  mdss: rotator: Use FIFO kthread for rotator work<br>
+  UPSTREAM: sched/preempt: Fix preempt_count manipulations<br>
+  gpio: Mask non-wakeup GPIO interrupts on suspend<br>
+  misc: fpc1020: Use device struct as wakeup source<br>
+  Revert "input: synaptic: s3320: Fix long delay in tp_baseline_get()"<br>
+  Revert "input: synaptics: s3320: Don't run baseline on resume"<br>
+  Revert "HACK: arm64: add CNTPCT_EL0 trap handler"<br>
+  ARM: dts: msm: Define power configuration for msm8996 and msm8998<br>
+  msm: vidc: Handle perf mode configuration<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 03/12/2018:</h2>
 <ul>
   <li>Merge branch 'upstream-oreo-ex4.00' into oreo-luis<br>
