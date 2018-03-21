@@ -1,5 +1,18 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/21/2018:</h2>
+<ul>
+<li>kernel: upstream-oreo-ck:<br>
+  - ARM64: configs: santoni: update v2.6 AOSP 8.1.x<br>
+  - Revert "ANDROID: ARM64: smp: disable preempt in backtracing across all cores"<br>
+  - ARM: dts: add 1.57GHz cpu freq for msm8937/40<br>
+  - ARM: dts: unlock 500MHz GPU Clock for msm8940<br>
+  - msm: clk: clock-cpu-8939: force to use speed bin 1.<br>
+  - Revert "ARM: dts: add overclock CPU for msm8937/40"<br>
+  - power: qpnp-smbcharger: set back to 2000ma max allowed.<br>
+  - power: qpnp-smbcharger: include 500MA into usb force fastcharge</li>
+</ul>
+
 <h2>Changelog builds after 03/18/2018:</h2>
 <ul>
   <li>device: Change the source device tree @Nikesh001</li>
