@@ -1,5 +1,31 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/22/2018:</h2>
+<ul>
+<li>kernel: upstream-cm-14.1-ck: (71 commits)<br>
+  - ARM64: configs: santoni: enable NTFS filesystem<br>
+  - cpuidle: don't disable cpuidle when entering suspend<br>
+  - PM / devfreq: Restart previous governor if new governor fails to start<br>
+  - PM / devfreq: Skip status update on uninitialized previous_freq<br>
+  - PM / devfreq: Add proper locking around list_del()<br>
+  - Linux 3.18.101<br>
+  - scsi: sg: only check for dxfer_len greater than 256M<br>
+  - scsi: sg: fix static checker warning in sg_is_valid_dxfer<br>
+  - scsi: sg: fix SG_DXFER_FROM_DEV transfers<br>
+  - fs/aio: Use RCU accessors for kioctx_table->table[]<br>
+  - fs/aio: Add explicit RCU grace period when freeing kioctx<br>
+  - lock_parent() needs to recheck if dentry got __dentry_kill'ed under it<br>
+  - ALSA: seq: Clear client entry before deleting else at closing<br>
+  - ALSA: seq: Fix possible UAF in snd_seq_check_queue()<br>
+  - ALSA: pcm: Fix UAF in snd_pcm_oss_get_formats()<br>
+  - ima: relax requiring a file signature for new files with zero length<br>
+  - rcutorture/configinit: Fix build directory error message<br>
+  - ASoC: nuc900: Fix a loop timeout test<br>
+  - mac80211: remove BUG() when interface type is invalid<br>
+  - veth: set peer GSO values<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 03/21/2018:</h2>
 <ul>
 <li>kernel: upstream-oreo-ck:<br>
