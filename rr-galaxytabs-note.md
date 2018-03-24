@@ -3,6 +3,9 @@
 <h2>Changelog builds after 03/23/2018:</h2>
 <ul>
   <li>kernel: Remove powersuspend commits from 03/11/2018</li>
+  <li>kernel: Set # CONFIG_INPUT_BOOSTER is not set</li>
+  <li>kernel: usb: core: Fix compiling</li>
+  <li>kernel: T805 M usb driver updates  …</li>
 </ul>
 
 <h2>Changelog builds after 03/15/2018:</h2>
