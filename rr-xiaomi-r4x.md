@@ -1,5 +1,20 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
-<p></p>
+<p></p><h2>Changelog builds after 03/23/2018:</h2>
+<ul>
+  <li>Rebase new kernel from caf/nikesh001 sources:<br>
+- ASoC: msm8x16-wcd: add speaker gain and prevent reset  …<br>
+- ASoC: msm8x16-wcd: Sound control: allow further reduction of digital … <br>
+- ASoC: msm8x16-wcd: Sound control: add mic gain  …<br>
+- ASoC: msm8x16-wcd: Sound control  …<br>
+- boeffla_wl_blocker: remove IPA stuf in list  …<br>
+- boeffla_wl_blocker: Block default wakelocks we had before  …<br>
+- boeffla_wl_blocker: update to wakelock blocker driver v1.1.0  …<br>
+- boeffla_wl_blocker: update to wakelock blocker driver v1.0.1  …<br>
+- boeffla_wl_blocker: add generic wakelock blocker driver v1.0.0  …<br>
+- net/wireguard: add wireguard importer  …<br>
+- Bring up for LuisROM</li>
+</ul>
+
 <h2>Changelog builds after 03/22/2018:</h2>
 <ul>
 <li>kernel: upstream-cm-14.1-ck: (71 commits)<br>
