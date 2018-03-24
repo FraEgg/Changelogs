@@ -1,6 +1,6 @@
 <h1>Changelog unofficial RR Nougat LuisROMs Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
-<h2>Changelog builds after 03/15/2018:</h2>
+<h2>Changelog builds after 03/23/2018:</h2>
 <ul>
   <li>kernel: Remove powersuspend commits from 03/11/2018</li>
 </ul>
