@@ -13,6 +13,7 @@
 - boeffla_wl_blocker: add generic wakelock blocker driver v1.0.0  …<br>
 - net/wireguard: add wireguard importer  …<br>
 - Bring up for LuisROM</li>
+  <li>Add exfat and ntfs filesystem support</li>
 </ul>
 
 <h2>Changelog builds after 03/22/2018:</h2>
