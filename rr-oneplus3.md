@@ -30,6 +30,7 @@
     ...</li>
   <li>device: op3: adjust interactive governor parameters based on CPU power efficiency curve</li>
   <li>device: op3: Moar fingerprint hal denial</li>
+  <li>device: op3: adjust interactive governor parameters based on CPU power effici…</li>
 </ul>
 
 <h2>Changelog builds after 03/20/2018:</h2>
