@@ -3,6 +3,7 @@
 <h2>Changelog builds after 03/26/2018:</h2>
 <ul>
   <li>msm8998: configs: move perfboostsconfig and powerhint to blobs  …</li>
+    <li>kernel: add exfat and ntfs filesystem support</li>
 </ul>
 
 <h2>Changelog builds after 03/25/2018:</h2>
