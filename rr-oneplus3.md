@@ -5,6 +5,7 @@
 <li>kernel: upstream-cm-14.1-sultan:<br>
   - kernel: Restrict unbound kthreads to little CPU cluster<br>
   - Revert "kernel: Force as many kernel tasks as possible onto CPU0"</li>
+  <li>Add exfat and ntfs filesystem support</li>
 </ul>
 
 <h2>Changelog builds after 03/18/2018:</h2>
