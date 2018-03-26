@@ -1,5 +1,10 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/26/2018:</h2>
+<ul>
+  <li>msm8998: configs: move perfboostsconfig and powerhint to blobs  …</li>
+</ul>
+
 <h2>Changelog builds after 03/25/2018:</h2>
 <ul>
   <li>frameworks: Add signature Spoofing permission (microG) …</li>
