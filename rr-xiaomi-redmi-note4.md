@@ -2,6 +2,14 @@
 <p></p>
 <h2>Changelog builds after 03/25/2018:</h2>
 <ul>
+  <li>frameworks: Add signature Spoofing permission (microG) …</li>
+  <li>frameworks: telephony: Hack GSM and LTE signal strength  …</li>
+  <li>frameworks: Allow location providers also outside of /system.  …</li>
+  <li>frameworks: Add German translation for Dash Charging.  …</li>
+</ul>
+
+<h2>Changelog builds after 03/25/2018:</h2>
+<ul>
 <li>kernel: android-linux-stable/msm-3.18/kernel.lnx.3.18.r22-rel: (1274 commits)<br>
   - scsi: sg: Remove some locking for cleaner 3.18.93 merge<br>
   - Linux 3.18.93<br>
