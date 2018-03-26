@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 03/25/2018:</h2>
 <ul>
-  <li>frameworks: Add signature Spoofing permission  …</li>
+  <li>frameworks: Add signature Spoofing permission (microG) …</li>
   <li>frameworks: telephony: Hack GSM and LTE signal strength  …</li>
   <li>frameworks: Allow location providers also outside of /system.  …</li>
   <li>frameworks: Add German translation for Dash Charging.  …</li>
