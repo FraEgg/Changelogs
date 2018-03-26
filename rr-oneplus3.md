@@ -6,6 +6,28 @@
   <li>frameworks: telephony: Hack GSM and LTE signal strength  …</li>
   <li>frameworks: Allow location providers also outside of /system.  …</li>
   <li>frameworks: Add German translation for Dash Charging.  …</li>
+  <li>kernel: upstream-oreo-ex4.00: (77 commits)<br>
+  update defconfig<br>
+  misc: Update from OB32/OB23 kernel source<br>
+  ANDROID: disable CONFIG_CC_OPTIMIZE_FOR_SIZE<br>
+  arm64: mm: move dma_overlap() out of init section<br>
+  misc: Fix uninitilized variables<br>
+  drivers: iommu, leds, input, clk, devfreq: fix warnings<br>
+  ASoC: wcd9335: Initialize variables before use<br>
+  media: vidc: change default return vaule to 0<br>
+  ANDROID: clean up uninitilized variable<br>
+  ANDROID: fix uninitilized variable<br>
+  Revert "ANDROID: Fix cpufreq stats table creation"<br>
+  ANDROID: cpufreq: stats: Fix sleeping while atomic in cpufreq_task_stats_init<br>
+  ANDROID: cpufreq_stats: Fix task time in state locking<br>
+  ARM: dts: msm: Bit-banging ability for i2c-12 to reset the bus<br>
+  i2c: remove i2c active check, add call to recover_bit_bang<br>
+  i2c: msm: Replace HW recovery mechanism with SW bit-banging<br>
+  net: core: Remove warning for cloned packets in ingress path<br>
+  mm: fix pageblock heuristic<br>
+  op3: Disable MSM_11AD<br>
+  drivers: cpufreq_interactive: handle error for module load fail<br>
+    ...</li>
 </ul>
 
 <h2>Changelog builds after 03/20/2018:</h2>
