@@ -1,5 +1,10 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 03/26/2018:</h2>
+<ul>
+  <li>kernel: add exfat and ntfs filesystem support</li>
+</ul>
+
 <h2>Changelog builds after 03/25/2018:</h2>
 <ul>
   <li>frameworks: Add signature Spoofing permission (microG) …</li>
