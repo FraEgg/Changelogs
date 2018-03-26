@@ -1,5 +1,13 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/25/2018:</h2>
+<ul>
+  <li>frameworks: Add signature Spoofing permission (microG) …</li>
+  <li>frameworks: telephony: Hack GSM and LTE signal strength  …</li>
+  <li>frameworks: Allow location providers also outside of /system.  …</li>
+  <li>frameworks: Add German translation for Dash Charging.  …</li>
+</ul>
+
 <h2>Changelog builds after 03/20/2018:</h2>
 <ul>
 <li>Merge branch 'upstream-oreo-ex4.00' into oreo-luis<br>
