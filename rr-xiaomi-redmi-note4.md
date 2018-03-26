@@ -1,5 +1,10 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 03/26/2018:</h2>
+<ul>
+<li>Add exfat and ntfs filesystem support</li>
+</ul>
+
 <h2>Changelog builds after 03/15/2018:</h2>
 <ul>
   <li>Bump security patch level to 2018-03-05</li>
