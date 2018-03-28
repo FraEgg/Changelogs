@@ -1,5 +1,10 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 03/28/2018:</h2>
+<ul>
+  <li>frameworks: fix google assistant scripts</li>
+</ul>
+
 <h2>Changelog builds after 03/26/2018:</h2>
 <ul>
   <li>msm8998: configs: move perfboostsconfig and powerhint to blobs  …</li>
