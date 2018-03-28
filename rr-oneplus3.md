@@ -8,6 +8,7 @@
   <li>kernel: msm: thermal: simple: Import from msm8996 kernel</li>
   <li>kernel: fs: Enable exfat and ntfs</li>
   <li>device/kernel: change device & kernel tree to rr-devices</li>
+  <li>frameworks: fix google assistant scripts</li>
 </ul>
 
 <h2>Changelog builds after 03/26/2018:</h2>
