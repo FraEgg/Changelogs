@@ -1,5 +1,11 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
-<p></p><h2>Changelog builds after 03/23/2018:</h2>
+<p></p>
+<h2>Changelog builds after 03/28/2018:</h2>
+<ul>
+  <li>frameworks: fix google assistant scripts</li>
+</ul>
+
+<h2>Changelog builds after 03/23/2018:</h2>
 <ul>
   <li>Rebase new kernel from caf/nikesh001 sources:<br>
 - ASoC: msm8x16-wcd: add speaker gain and prevent reset  …<br>
