@@ -1,5 +1,15 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/28/2018:</h2>
+<ul>
+  <li>kernel: msm: add thermal: simple from sultanxda</li>
+  <li>kernel: enable in defconfig + input boost</li>
+  <li>kernel: cpu_input_boost: Import from msm8996 kernel  …</li>
+  <li>kernel: msm: thermal: simple: Import from msm8996 kernel</li>
+  <li>kernel: fs: Enable exfat and ntfs</li>
+  <li>device/kernel: change device & kernel tree to rr-devices</li>
+<ul>
+
 <h2>Changelog builds after 03/26/2018:</h2>
 <ul>
   <li>kernel: add exfat and ntfs filesystem support</li>
