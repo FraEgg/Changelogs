@@ -1,5 +1,10 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 03/31/2018:</h2>
+<ul>
+  <li>Fix ota rr updater app</li>
+</ul>
+
 <h2>Changelog builds after 03/28/2018:</h2>
 <ul>
   <li>kernel: msm: add thermal: simple from sultanxda</li>
