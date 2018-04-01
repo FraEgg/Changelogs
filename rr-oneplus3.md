@@ -1,5 +1,13 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 04/01/2018:</h2>
+<ul>
+  <li>revert: "kernel: msm: add thermal: simple from sultanxda"</li>
+  <li>revert: "kernel: enable in defconfig + input boost"</li>
+  <li>revert: "kernel: cpu_input_boost: Import from msm8996 kernel  …"</li>
+  <li>revert: "kernel: msm: thermal: simple: Import from msm8996 kernel"</li>
+</ul>
+
 <h2>Changelog builds after 03/31/2018:</h2>
 <ul>
   <li>Fix ota rr updater app</li>
