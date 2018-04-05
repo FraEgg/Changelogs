@@ -2,7 +2,7 @@
 <p></p>
 <h2>Changelog builds after 04/05/2018:</h2>
 <ul>
-<li>upstream-ck-AOSP-8.1:<br>
+<li>kernel: upstream-ck-AOSP-8.1:<br>
   mmc: move to a SCHED_FIFO thread<br>
   ARM64: AutoSMP: create function helper to calculate previous cpu idle<br>
   ARM64: AutoSMP: fixup and reflect to any changes about min cpus.<br>
@@ -23,6 +23,13 @@
   ARM64: AutoSMP: fix reference for cpu up<br>
   ARM64: AutoSMP/AIO: don't allow users to enable more than 1 hotplug.<br>
   msm: camera_v2: fix compilation error</li>
+  <li>qcom: * upstream-los-lineage-15.1-caf-8996:<br>
+  hal: Fixed WSA channels for qrd450<br>
+  configs: msm8953: Update controls for internal codec<br>
+  hal: add support for sdm450 sku4<br>
+  configs: msm8953: Add speaker and headphones paths<br>
+  hal: use proper snd_card_name for acdb_init<br>
+  hal: fix incorrect channel count of realtime recording</li>
 </ul>
 
 <h2>Changelog builds after 03/28/2018:</h2>
