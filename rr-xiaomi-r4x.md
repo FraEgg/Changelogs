@@ -1,5 +1,37 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 04/05/2018:</h2>
+<ul>
+<li>kernel: upstream-ck-AOSP-8.1:<br>
+  mmc: move to a SCHED_FIFO thread<br>
+  ARM64: AutoSMP: create function helper to calculate previous cpu idle<br>
+  ARM64: AutoSMP: fixup and reflect to any changes about min cpus.<br>
+  ARM64: configs: santoni: update v2.9 AOSP 8.1.x<br>
+  ARM64: AutoSMP: always check cpu 0/4 before incresed nr online.<br>
+  ARM64: AutoSMP: changes specific limit min/max cpus<br>
+  ARM64: AIO_hotplug: use unsigned integer for cpu in AiO_HotPlug_stop().<br>
+  cpuidle: Add other commits left out during CAF's 3.18 stable merge<br>
+  proc: Remove additional SafetyNet flags from /proc/cmdline<br>
+  proc: Remove verifiedbootstate flag from /proc/cmdline<br>
+  ARM64: AutoSMP: optimized up/down threshold<br>
+  ARM64: AutoSMP: avoided touching reference functions.<br>
+  ARM64: AutoSMP: use CPU load instead of CPU freq for up/down cpus<br>
+  ion: adjust system heap pool orders<br>
+  ARM64: AIO_hotplug: fix misleading indentation in AiO_HotPlug_stop().<br>
+  ARM64: AIO_hotplug: use offline/online device operations<br>
+  ARM64: AutoSMP: use offline/online device operations<br>
+  ARM64: AutoSMP: fix reference for cpu up<br>
+  ARM64: AutoSMP/AIO: don't allow users to enable more than 1 hotplug.<br>
+  msm: camera_v2: fix compilation error</li>
+  <li>qcom: * upstream-los-lineage-15.1-caf-8996:<br>
+  hal: Fixed WSA channels for qrd450<br>
+  configs: msm8953: Update controls for internal codec<br>
+  hal: add support for sdm450 sku4<br>
+  configs: msm8953: Add speaker and headphones paths<br>
+  hal: use proper snd_card_name for acdb_init<br>
+  hal: fix incorrect channel count of realtime recording</li>
+</ul>
+
 <h2>Changelog builds after 03/26/2018:</h2>
 <ul>
   <li>kernel: add exfat and ntfs filesystem support</li>
