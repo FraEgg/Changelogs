@@ -5,6 +5,11 @@
   <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
 </ul>
 
+<h2>Changelog builds after 04/05/2018:</h2>
+<ul>
+  <li>Luis: Change kernel cross compiler to GCC 4.9.4 Linaro-4.9.4</li>
+</ul>
+
 <h2>Changelog builds after 04/01/2018:</h2>
 <ul>
   <li>revert: "kernel: msm: add thermal: simple from sultanxda"</li>
