@@ -1,5 +1,31 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 07/05/2018:</h2>
+<ul>
+<li>kernel: ryan-andri-clarity/AOSP/8.1: (7552 commits)<br>
+zsmalloc: fix migrate_zspage-zs_free race condition<br>
+ARM64: AutoSMP: create function helper to calculate previous cpu idle<br>
+ARM64: AutoSMP: fixup and reflect to any changes about min cpus.<br>
+wlan: Send STA authorized status to supplicant for AP<br>
+wlan: Fix NULL pointer de-reference<br>
+wlan: Fix uninitialized variable access<br>
+wlan: Fix possible buffer overflow<br>
+wlan: Add vendor event to get the driver hang reason<br>
+wlan: Set max size of beacon and probe resp template to 384<br>
+wlan: Activate max channel timer at scan start<br>
+wlan: Reallocate skb before reusing in wlan_logging pkt_stats filled list<br>
+wlan: Fix CPU soft lock up during workqueue cancellation<br>
+wlan: Validate adapter before accessing 'hddArpStats'<br>
+wlan: Get HDD context after validating adapter<br>
+wlan: Add cfg_ini NULL check before dereferencing<br>
+wlan: Return failure if input arguments are invalid<br>
+wlan: Fix uninitialized memory access<br>
+wlan: Fix Null pointer dereference<br>
+wlan: Fix uninitialized variable access<br>
+wlan: Cache last connection info<br>
+  ...</li>
+</ul>
+
 <h2>Changelog builds after 04/05/2018:</h2>
 <ul>
 <li>kernel: upstream-ck-AOSP-8.1:<br>
