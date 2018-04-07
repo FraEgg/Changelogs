@@ -5,6 +5,11 @@
   <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
 </ul>
 
+<h2>Changelog builds after 04/05/2018:</h2>
+<ul>
+  <li>Luis: Change kernel cross compiler to GCC 7.2.1</li>
+</ul>
+
 <h2>Changelog builds after 03/28/2018:</h2>
 <ul>
   <li>frameworks: fix google assistant scripts</li>
