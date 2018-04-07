@@ -1,5 +1,9 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi 4x (santoni)</h1>
 <p></p>
+<h2>Changelog builds after 04/06/2018:</h2>
+<ul>
+  <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
+</ul>
 
 <h2>Changelog builds after 03/28/2018:</h2>
 <ul>
