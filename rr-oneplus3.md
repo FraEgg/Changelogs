@@ -1,5 +1,10 @@
 <h1>Changelog unofficial RR Oreo LuisROM for Oneplus 3/3T</h1>
 <p></p>
+<h2>Changelog builds after 04/06/2018:</h2>
+<ul>
+  <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
+</ul>
+
 <h2>Changelog builds after 04/01/2018:</h2>
 <ul>
   <li>revert: "kernel: msm: add thermal: simple from sultanxda"</li>
