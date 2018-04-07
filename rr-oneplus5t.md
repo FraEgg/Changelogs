@@ -1,5 +1,10 @@
 <h1>Changelog Unofficial RR-Oreo LuisROM Builds for Oneplus 5T (dumpling)</h1>
 <p></p>
+<h2>Changelog builds after 04/06/2018:</h2>
+<ul>
+  <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
+</ul>
+
 <h2>Changelog builds after 03/28/2018:</h2>
 <ul>
   <li>frameworks: fix google assistant scripts</li>
