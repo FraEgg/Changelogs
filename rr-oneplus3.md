@@ -2,6 +2,30 @@
 <p></p>
 <h2>Changelog builds after 04/08/2018:</h2>
 <ul>
+  <li>Add more tri-state slider options</li>
+  <li>Change kernel source to caesium kernel: tweaks-mcd-8.1-upstream: (46 commits)<br>
+  - Linux 3.18.103<br>
+  - defconfig: set local_version<br>
+  - defconfig: enable usb fast charge<br>
+  - drivers: misc: implement usb fast charge mode<br>
+  - ARM: dts: 15801: Optimize display effects of SRGB, DCI-P3<br>
+  - msm_adreno_tz: add adrenoboost parameter and display state awareness<br>
+  - defconfig: enable maple and zen ioshed<br>
+  - block: add zen(v2) iosched<br>
+  - defconfig: enable quick-wakeup<br>
+  - power: quickwakeup: initial driver<br>
+  - mdss_fb: add backlight dimmer option<br>
+  - defconfig: enable state notifier<br>
+  - state_notifier: Remove internal enablement switch<br>
+  - state_notifier: Drop unneeded module_param_named entries<br>
+  - state_notifier: Make workqueues unbound<br>
+  - state_notifier: Reduce defer on suspend call to 1 second<br>
+  - state_notifier: Queue work on any core<br>
+  - state_notifier: Enable by default<br>
+  - OP3T: Add state notifier driver<br>
+  - cpufreq: interactive: prevent perfd from messing with the governor params<br>
+  - CPUFREQ: prevent setting io_is_busy by ROM - again<br>
+  ...</li>
   <li>Add rounded corners in UI and Recents</li> 
   <li>Add OnePlusCameraService</li>
 </ul>
