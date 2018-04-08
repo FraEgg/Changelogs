@@ -3,6 +3,7 @@
 <h2>Changelog builds after 04/08/2018:</h2>
 <ul>
   <li>Add more tri-state slider options</li>
+  <li>Update GCam to skulshady_gcam_5.1.018_Mod_v3.0</li>
   <li>Change kernel source to caesium kernel: tweaks-mcd-8.1-upstream: (46 commits)<br>
   - Linux 3.18.103<br>
   - defconfig: set local_version<br>
