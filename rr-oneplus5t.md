@@ -3,6 +3,7 @@
 <h2>Changelog builds after 04/08/2018:</h2>
 <ul>
   <li>Add more tri-state slider options</li>
+  <li>Update GCams to GoogleCamera-Pixel2Mod-Arnova8G2-V7-test-10-Op5-5t</li>
   <li>Add rounded corners in UI and Recents</li> 
   <li>Add OnePlusCameraService</li>
 </ul>
