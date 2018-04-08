@@ -2,6 +2,7 @@
 <p></p>
 <h2>Changelog builds after 04/08/2018:</h2>
 <ul>
+  <li>Add more tri-state slider options</li>
   <li>Add rounded corners in UI and Recents</li> 
   <li>Add OnePlusCameraService</li>
 </ul>
