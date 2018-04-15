@@ -1,5 +1,14 @@
 <h1>Changelog unofficial RR Nougat LuisROM for Xiaomi Redmi Node 4 (mido)</h1>
 <p></p>
+<h2>Changelog builds after 04/15/2018:</h2>
+<ul>
+  <li><b>My developer changelog has moved!!!</b><br> 
+    Each new build has its own changelog file (* -Changelog.txt) in the download directory.<br>
+    Link to the downloads: <a href="http://luis-builds.de/downloads/lineageos/rr/" target="_blank">http://luis-builds.de/downloads/lineageos/rr/</a>
+  </li>
+</ul>
+<hr>
+
 <h2>Changelog builds after 04/06/2018:</h2>
 <ul>
   <li>Luis: Update GCam to MGC_5.1.018_Urikill_vXXII</li>
