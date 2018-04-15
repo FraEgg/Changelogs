@@ -1,5 +1,13 @@
 <h1>Changelog unofficial RR Nougat LuisROMs Samsung Galaxy Tab S (T700/705/800/805) and Samsung Galaxy Note 2014 Edition (P600)</h1>
 <p></p>
+<h2>Changelog builds after 04/15/2018:</h2>
+<ul>
+  <li><b>My developer changelog has moved!!!<b><br> 
+    Each new build has its own changelog file (* -Changelog.txt) in the download directory.<br>
+    Link to the downloads: <a href="http://luis-builds.de/downloads/lineageos/rr/" target="_blank">http://luis-builds.de/downloads/lineageos/rr/</a>
+  </li>
+</ul>
+<hr>
 <h2>Changelog builds after 03/23/2018:</h2>
 <ul>
   <li>kernel: Remove powersuspend commits from 03/11/2018</li>
